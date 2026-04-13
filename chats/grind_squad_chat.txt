@@ -1,0 +1,1842 @@
+Person 1: ‎You created group “Person 1”
+Person 1: ‎Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them.
+Danielle Knutson: we can use this for our 6.121 prep lol
+Person 2: What is this bro 💀
+Person 3: Bro is that freaking Ashton hall bombardiro crocodilo
+Person 2: Wait okay 😂
+Person 2: Idea
+Person 2: We go over recitation problems that we don't finish in rec
+Person 2: I think we should also ask rec leader/Brynmor if they got a bunch of DP/Greedy problems so we can crank them out
+Person 3: That’s a good idea
+Person 2: Once we finish the last few lectures we should grind through past papers, but might be annoying rn if there's still stuff we dk
+‎[4/22/25, 1:50:48 PM] ~ Person 6: Person 4: "Is this AI generated" ‎image omitted
+Danielle Knutson: i like that idea also i think the textbook has practice problems
+Danielle Knutson: …
+Danielle Knutson: 👀
+Danielle Knutson: also i wonder if leetcode has stuff
+Person 3: bro if we’re going leetcode route might as well rename the grp to torture 😭😭
+Danielle Knutson: no torture bro
+Person 2: Definitely does
+Person 2: We can do some of those too
+Danielle Knutson: i’m done with class now
+Danielle Knutson: let me know if you want to meet either at the stud or at simmons
+Person 2: I'm at the stud rn, but it's really okay if you take a break Dani 😭
+Person 2: I'm working on writing up the pset
+Person 2: Y'all I do not understand monotonicity 😃
+‎[4/22/25, 2:36:16 PM] Danielle Knutson: if you add back to subprovlem do it get better ‎image omitted
+Danielle Knutson: do you want something from dunkin
+Person 2: 😃
+Person 2: Scary
+Person 2: ...
+Person 2: Glazed doughnut please 🥺
+Person 3: Bro 😭
+Person 2: BRO I'VE BEEN CRAVING
+Person 3: Nah bro it’s not that
+Person 3: I’ve also been craving a donut 😭
+Person 3: But finance said no
+Person 2: I'm on stud 2 btw
+Person 3: I’ve used all my unexcused absences
+Person 2: Like in the food area
+Person 2: On 2nd floor of that
+Person 2: Oooof
+Person 2: Dw bro we'll still be here after finance
+Person 3: I doubt my brain can survive that long
+Person 3: Gotta snipe that daily nap
+Danielle Knutson: bruh where you at
+Danielle Knutson: https://courses.csail.mit.edu/6.006/
+Danielle Knutson: for reference
+Danielle Knutson: also https://neetcode.io
+Person 3: How was y’all’s session
+Danielle Knutson: we didn’t really do anything
+Danielle Knutson: Person 6 was writing up his pset and i was procrastinating
+Danielle Knutson: but i’m free tomorrow
+Person 2: I am not very free tomorrow 😔
+Person 3: Can we do Friday?
+Person 3: I swear it’s just this week that’s trash
+Person 3: 😭🙏
+Person 2: Yeah 😭
+Danielle Knutson: you guys free tomorrow
+Danielle Knutson: after 6ish?
+Person 2: Yep!
+Person 3: I can’t I have a case, 2 psets, a project progress report, and a presentation due in the next 2 days 😭
+Person 3: Guys
+Person 3: I feel so trash
+Danielle Knutson: you got this bro
+Danielle Knutson: maybe you should reach out to s^3
+Person 3: Bro it’s not that I’m sick
+Person 3: It’s just that
+Person 3: I set the alarm and didn’t turn it on
+Person 3: I quite literally woke up 30 mins ago
+Person 3: And I fully am just not going to class lowkey
+Person 2: Ahh rip bro
+Person 2: You could still go to s^3 if you feel like you just want some weight off your shoulders
+Person 2: But if it's alright then you got this bro 🙏
+Person 3: Nah bro I feel like the universe is out here to stress me out 😂😂😂
+‎[4/24/25, 2:45:07 PM] Person 3: ‎image omitted
+Person 3: Nah nah we good bro trust the process
+Person 3: Hell  has now frozen over
+Person 3: Yall wanna do tonight or tmrw?
+Person 2: We working on it a lil bit until 4pm rn
+Person 2: If you got time 👀
+Person 3: Not until 6 no 😢
+Person 3: I’ll join yall next time
+Person 3: Hope it’s productive 💪
+Person 2: We got through some stuff... Coding DP is hard man 😃
+Person 3: Lord have mercy
+Person 3: 😭
+Person 3: Bro im looking at this pset why is it due on THursday
+Person 3: is it that hard frl??
+Danielle Knutson: they didn’t release until thursday
+Danielle Knutson: it was late
+Person 2: Person 1!1
+Person 2: When we meeting?
+Person 2: I spoke with a professor, and I think a good way to prep would be that we assign a different lecture to each person, so when we all come together, we have to teach each other
+Danielle Knutson: oh damn
+Danielle Knutson: what professor
+Danielle Knutson: also bet
+Person 2: Then we should go over rec/exams/lecture exercises
+Person 3: That’s a good idea
+Person 3: We should each take our worst lecture
+Danielle Knutson: actually valid
+Person 3: Assuming they’re all different
+Person 2: Yeah yeah
+Person 3: Well I mean any day works
+Danielle Knutson: how did last week go
+Person 2: Let's decide on which ones
+Person 2: Then give ourselves some time to prep
+Person 3: we don’t talk about it 😭
+Person 3: Yeah good idea
+Person 2: Last week being like Bruno eh?
+Person 3: 😂
+Danielle Knutson: lol
+Person 3: Frl it got me smoking out the window
+Person 3: #depression
+Person 2: Do y'all have any lectures you'd want to teach/give a summary on?
+Person 3: Well if we’re doing our worst lecture I think it’d be good for me to take Huffman
+Person 2: Ideally one you're cooked on
+Person 2: Aight aight
+Person 3: I missed that lecture
+Danielle Knutson: Person 6 i feel like you should do greedy because of the monotonicity stuff to make you have it down
+Danielle Knutson: if you want of course
+Person 2: Yeah I agree
+Person 2: I'll do that
+Person 2: Maybe I'll go through rec problems too
+Danielle Knutson: bruh that leaves dp to me
+Danielle Knutson: honestly that’s okay
+Person 3: Yeah plus this weeks lectures make 3 more to assign
+‎[4/28/25, 12:48:18 PM] ~ Person 6: ‎GIF omitted
+Person 2: True true
+Person 3: I hear the sound effect bros making
+Person 2: Wait ain't it 2 more?
+Person 3: No cuz dp 2
+Danielle Knutson: oh i was gonna do both
+Person 2: Question is: am I making them in my head or irl? 🤔
+Danielle Knutson: irl
+Danielle Knutson: i can hear them bro
+Person 2: 2 lectures sounds good
+Person 3: Yeah that’s cool
+‎[4/28/25, 12:49:28 PM] ~ Person 6: ‎GIF omitted
+Person 3: So Person 6 and I will take Tuesday and Thursday depending on what they are
+Person 3: Also I have not started this pset
+Danielle Knutson: it’s an interesting one
+Danielle Knutson: i honestly would try coding it while doing it
+Person 2: Same same
+Danielle Knutson: i haven’t done 1 really but i think i know how
+Danielle Knutson: i would skip 1 if you don’t get LIS(which i do not)
+Person 3: I need to review dp 2 before I do this
+Person 3: I’ll uh do 2 and 3 for now
+Person 3: And wait on 1
+Danielle Knutson: how soon do you guys want to meet
+Danielle Knutson: we can do our first lectures then the second ones in a later meeting
+Person 3: Bet
+Person 3: I’d say giving enough time for preparation prolly like
+Person 3: Midweek
+Danielle Knutson: alright i’m free anytime
+Danielle Knutson: let a brotha know
+Person 2: Is it the n^2 solution or the n log n solution?
+Danielle Knutson: n^2
+Person 2: Ah gotchu
+Danielle Knutson: but in this problem it’s going to be 3d
+Danielle Knutson: at least i think so
+Person 2: Yeah I'm down for tmrw honestly
+Person 2: Or Wednesday
+Person 2: 🫢
+Person 3: Wednesday
+Person 3: I’d also be down to super grind
+Person 3: Start at 6
+Person 3: End at 2
+Danielle Knutson: end at 11
+Person 3: Alright compromise
+Person 3: End at 4
+Danielle Knutson: :
+Danielle Knutson: 👁️
+Person 2: What in the world are these takes
+Person 2: Y'all I'm free from 3:30pm to 7:30pm on Wednesday just letting you guys know 🙃 ‎<This message was edited>
+Person 2: Before we be planning a 6am to 11pm grind session
+Person 3: I can do that still
+Person 3: No no 6pm to 4am
+Person 2: 😃
+Person 3: 6pm to 6am challenge
+Person 3: 😂
+Danielle Knutson: what are you doing after 7:30 if i may ask
+Person 2: I got a Bible study "lifegroup" with some Cru folks
+Person 2: But I'll be free at 9pm if y'all wanna continue
+Person 3: We could do it in 2 parts
+Person 3: Nah yall valid bout this pset
+Person 3: Getting just the impure dp solution took like 2 and a half hrs
+Person 3: For 2
+Danielle Knutson: yea did you code it
+Person 3: Yep
+Danielle Knutson: yea it makes you understand it tho
+Person 3: True true
+Person 2: Yo guys
+Person 2: For Q2 on the PSET, are we to assume that C is written in the order of A and B
+Danielle Knutson: yes
+Person 3: Nope
+Person 3: Wait what
+Person 3: I did it without
+Person 3: And it worked on the test cases
+Person 2: Let's say A = aba and B = abc, can C = cbaaba?
+Danielle Knutson: no
+Person 3: No
+Person 2: Okay thanks!
+Danielle Knutson: it’s also on piazza i think
+Person 3: Has to be contiguous
+Person 2: Yeah was tryna open Piazza but was acting like 1980's internet
+Person 3: wait
+Person 3: im stupid
+Person 3: yeah A has to be before B
+Person 3: holy shit now the code works 😭
+Danielle Knutson: no A doesn’t have to be before B i don’t think
+Person 3: bro
+Danielle Knutson: the strings just have to be in the same order
+Person 3: contiguous
+Person 3: okay
+Person 3: then ill revert back
+Person 3: this damn thing is messing with me
+Danielle Knutson: idk if that’s the right word for it
+Person 3: maybe not
+Person 3: more like
+Person 3: in order traversal
+Person 3: for each string
+Danielle Knutson: mhmmm like within C there exists a subsequence that is A and B
+Person 3: is there a runtime constraint for prolem 2?
+Danielle Knutson: no but i’m guessing it should be AB
+Person 3: bro i did this so wierd
+Person 3: my memo is a 3d matrix dawg
+Person 3: tracking a, b and allowable chain form a
+Danielle Knutson: but i’m guessing it’s *4
+Person 3: *4?
+Danielle Knutson: it’s like 4AB ‎<This message was edited>
+Person 3: ohhh
+Person 3: well idk im gonna have to count this rq
+Person 3: wait....
+Danielle Knutson: how many 2d matrices do you make in your code?
+Danielle Knutson: it should be the last number in the for loop
+Person 3: 0
+Person 3: just 1 3d matrix
+Person 3: its making it more complicated
+Person 3: impure DP worked tho
+Person 3: and it was O(AB)
+Danielle Knutson: 4x4x3 makes 3 2d matrices
+Person 3: so pure DP should be AB
+Person 3: memo = [[[None for _ in range(4)]
+                  for _ in range(a+1)]
+                  for _ in range(b+1)]
+Danielle Knutson: then it’s 4AB
+Danielle Knutson: 4xAxB
+Person 3: well yeah
+Person 3: but idk if it changes for pure DP
+Danielle Knutson: that is pure dp
+Person 3: i get it conceptually for impure DP
+Person 3: thats the mmemo i used ofr impure
+Danielle Knutson: are you filling it with a for loop
+Person 3: yeah
+Person 3: i might have to initialize a bunch of flases in it
+Person 3: maybe somthing like
+Person 3: memo: [[[False]*4 for _ in range(m+1)] for _ in range(n+1)]
+Person 3: and then fill it in increasing order
+Person 3: but i might use 2 for loops
+Person 3: is that allowed?
+Person 3: actually nvm this makes sense
+Person 2: CODING PART DONE
+Person 2: Y'all I think I wrote my Pure DP backwards can we compare later?
+Person 2: I feel like when it comes to coding up DP you can do it in so many ways
+Person 2: Y'all also
+‎[4/29/25, 2:54:18 AM] ~ Person 6: LIS is Leetcode ‎image omitted
+Person 3: 💀
+Person 3: lol prolly won’t be until Wednesday yk
+Person 3: Gotta actually work on it 😭😭
+Danielle Knutson: let me know if you guys end up doing 1
+Person 2: I did but it's sus
+Danielle Knutson: did you write code for it
+Danielle Knutson: because i’m also thinking mine is sus
+Person 2: Nah that might be an idea tho
+Person 2: I'll try writing code later
+Person 2: Maybe tmrw tho
+Danielle Knutson: did you end up doing 3d because i couldn’t think about it that way
+Person 2: Kinda it's a weird 3d or I think 4d at this point
+Person 2: But 2 of those are bounded sizes
+Person 2: So 2 x 2 x n x n or sum like that
+Danielle Knutson: mhm okay
+Person 3: Guys for 3 can you use 2 memos?
+Danielle Knutson: yea
+Person 3: Okay thanks
+Person 3: I think I’m closing in on the solution
+Danielle Knutson: ✊✊✊
+Person 3: Finally it worked
+Person 3: That was not a good experience
+Person 3: For reference I started at 5:30
+Person 3: It’s 9:20
+Person 3: 4 hours dawg
+Person 3: And I still feel clueless
+Person 3: Counting on you guys to teach me 😭🙏🙏
+Danielle Knutson: we got this dawg
+Person 3: time to finish 2 and do 1 😭
+Person 3: guys I used 2 2d ones for question 1
+Person 3: anyone else do that?
+Danielle Knutson: bro i used a 1d
+Danielle Knutson: but you can definitely do it that way
+Danielle Knutson: i don’t really think my way is right
+Person 3: Hmmm
+Person 3: How’d u use a 1 d
+Person 3: I like used 1 to track increasing subsequences and one to track decreasing subsequences
+Person 3: And for each the first dimension is like the number of switches
+Person 3: And the second dimension is just the  index
+Person 3: Still tho my code is not working at all
+Person 3: So I’m probably just doing bullshit
+Danielle Knutson: I basically updated the 1d table repeatedly and had it change direction for every iteration of k
+Danielle Knutson: or step
+Person 3: Interesting
+Person 3: I mean that technically is kn2
+Person 3: My strategy is that I do the recursive version and then given what variables I recursively track determines what memos I use
+Person 3: So since u track the last index of the sequence and how many times u switch then that’s the two memos
+Person 3: Still tho is this technically dp ‎<This message was edited>
+Danielle Knutson: why not
+Danielle Knutson: i basically used what they did in lecture with the 1d
+Danielle Knutson: but did it k times
+Person 3: Like is it a subproblem tho
+Person 3: If u do it k times
+Person 3: Well I mean the problem itself is a subproblem
+Person 3: Yeah so it should be fine
+Person 3: Guys you wanna start at 4?
+Person 3: We could book a classroom to use the chalkboards
+Danielle Knutson: is there one i can project my computer
+Person 3: Yeah all of them
+Person 3: We can just find an empty classroom
+Person 3: Meet in main building?
+Danielle Knutson: do i need a cord
+Person 3: Nah
+Danielle Knutson: we’re in a room in building 66
+Person 3: Where is building 66
+Person 3: I’ll be there in about half an hour
+‎[4/30/25, 3:09:47 PM] Danielle Knutson: over by east campus ‎image omitted
+Person 3: No sorry I mean where in building 66
+Danielle Knutson: by one of the first rooms it’s 66-148
+Person 3: Alr
+Danielle Knutson: https://arxiv.org/pdf/2202.09495#:~:text=That%20is%2C%20an%20instance%20is,and%20the%20capacity%20of%20bins.
+Person 2: BRO I'M READING THIS RIGHT NOW
+Person 2: ... AFTER I FINISH MY WORK
+Person 3: Guys for homework 11
+Person 3: Sorry 10
+‎[5/1/25, 9:15:08 PM] Person 3: I feel stupid is this question broken or something ‎image omitted
+Danielle Knutson: you have to use a system of equations
+Danielle Knutson: it’s 3.7037
+Danielle Knutson: and then you can plug that back in to get the next one
+Person 3: Ohhhhhhhh
+Person 3: Okay make’s sense
+Person 3: Thanks
+Person 3: Where yall at bro
+Person 3: I’m ready to do this pset
+Person 3: Guys I can’t believe you didn’t mention that question 2 was frierien question
+Person 3: W anime dawg
+Person 3: Do we have to prove correctness for question 1?
+Danielle Knutson: no just srtbot
+Danielle Knutson: also i don’t get 2
+Person 3: Watch the frieren anime
+Person 3: But I’ll try it later and see
+Person 2: The whole thing bro? 💀
+Person 3: I made some headway
+Person 3: My TA’s in Vassar actually
+Person 3: I saw bro so I took my chance to get a hit
+Person 3: It takes some inspiration from peak finding
+Person 3: It’s a 3D memo where for some interval  i and j within the range n you have budget l ‎<This message was edited>
+Person 3: And you essentially try some choice between that interval and depending on whether or not it’s safe or a mimic then you know that s>p or s<p and then you move to the second half
+Person 3: I don’t know if that approach is right, the TA just said to think in terms of intervals but it’s what I could come up with. Idk if y’all got something similar
+Danielle Knutson: 👀
+Danielle Knutson: I thought i understood 2 but i realized i was solving the wrong problem
+Danielle Knutson: that makes a lot of sense actually thank you
+Danielle Knutson: omg it’s like the problem of where to put the parentheses
+Person 3: Noooooooo
+Person 3: Dont do that
+Danielle Knutson: lol
+Person 3: Kinda yeah
+Person 2: Wait for 2 what is Frieren's Algorithm?
+Person 2: Does Frieren's algorithm return the max-cost based on your given k?
+Person 2: And if so, what does it mean to "compute the worst-case mana cost of Frieren's Algorithm"
+Person 3: Minimum worst case amount of mana needed to locate s, given that you can only open k mimics
+Person 2: So we're trying to find the cheapest?
+Person 3: It’s basically saying if you know that some chest s lies within a range and you still have k mimic openings left, what’s the least amount of mana that u must be prepared to spend in the worst case to pin down where exactly s is
+Person 3: Operating of course within k’s budget
+Person 2: Ohhh so that's what we're calculating?
+Person 3: Yeah
+Person 2: Alr thanks
+Person 3: It’s also your sub problem too
+Person 2: Yeah figured
+Person 2: Was confused I was like "Where's Frieren's Algo bro"
+Person 3: Like I said
+Person 3: Watch the anime 😂
+Person 3: It’s actually really good
+Person 2: Omds 😂
+Person 2: Is it a reference?
+Person 3: Probably the best story in recent times
+Person 2: Okay bro 😃
+Person 3: Frierien: Beyound Journeys End
+Person 3: Goated show
+Person 2: Is the algorithm a reference to the show 😂
+Person 3: Uses concepts from it
+Person 2: Oh fr?
+Person 3: Mimics, mana, frieren herself
+Person 2: That's cool
+Person 2: Ohhhh
+Person 3: Not necessarily something that happened
+Person 2: So Brynmor is an anime fan in general
+Person 3: Which is great to know cuz Pokémon  is so basic
+Person 3: Good to know bro has taste ‎<This message was edited>
+Person 3: Guys 2b is actually insane
+Person 3: wtf is this
+Person 3: It has to be binary search no question
+Person 2: Y'all I might be cooked for this pset
+Person 3: But I have 0 clue as to the framework
+Person 3: Ayo bro dw we gotchu
+Person 3: We got plus late days rmbr ‎<This message was edited>
+Person 2: Wait we have late days?
+Danielle Knutson: no
+Person 2: That don't impact score?
+Person 3: Wait we don’t have late days?
+Danielle Knutson: no
+Danielle Knutson: unfortunately
+Danielle Knutson: you can ask for one tho
+Person 3: That’s wierd
+Person 2: 😨
+Person 3: Ig I was thinking ml
+Danielle Knutson: why cooked
+Person 2: Bro found out the hard way
+Person 3: Insert Person 6 sound effect
+Person 2: ML been destroying my concept of lateness
+Person 2: Just needa work on it 😔
+Person 3: I might have to use the ML late days still tho
+Danielle Knutson: i would do 3 first because its not as hard to think about
+Person 2: YES
+‎[5/8/25, 9:44:55 PM] Person 3: Look at this monster for CV ‎image omitted
+Person 2: bing
+Person 2: bingo
+Person 3: 1.2 BILLION parameters
+Danielle Knutson: for 2 don’t try to visualize it just think about what the sub problem is and go from there
+Person 2: please bro I don't got the brain power to comprehend what this class is
+Person 3: Dani any progress on b?
+Person 2: I liked when CS was coding and you actually understood everything 😊
+Person 3: I think I gotta tap out for the night
+Person 2: 😠
+Danielle Knutson: bro i told you they’re getting “binary search idk lol”
+Person 2: But I'm visual learner
+Danielle Knutson: look at the egg drop problem on leetcpde then
+Person 3: I might be jumping on that bandwagon stillz
+Danielle Knutson: that will give you intuition for it
+Danielle Knutson: but it’s a leetcode hard so idk if you can code it in time just try to get the theory
+Person 2: OMDS THE EGG DROP QUESTION
+Person 2: I'VE SEEN THIS BEFORE
+Person 3: Right? I just imported the model, wrapped it in another single module and let it train
+Person 3: I might have to pay for colab pro
+Person 2: But I have not solved it 😔
+Person 3: The ram can’t handle it
+Person 2: 😭
+Person 2: That class be wildin
+Danielle Knutson: i believe in you
+Danielle Knutson: i can also send my notebook that has my steps for matrix multiplication
+Person 2: 🙏Preciate it bro
+Person 2: YES
+Danielle Knutson: which should also help
+Person 2: WHEN YOU GONNA TEACH
+Person 3: Did they ever do matrix multiplication in lecture? Cuz I guarantee you when they bring that shit on the exam that’d be the final straw with them bro
+Person 2: Dani when you gonna teach dp 😔?
+Danielle Knutson: bro i can tomorrow
+Person 3: Frl I’ll pay money
+Danielle Knutson: i’m done after recitation
+Person 2: 🙏Bet bet
+Person 2: I won't 😊
+Person 3: Record it for me at least? 🥺🥺🥺
+Person 2: But I'll tell Person 4 to pay more!1
+Person 3: Do I look like I’m made of money?? 😂😂😂
+Person 3: Dani is getting Jamaican money
+Person 2: I mean, money's money right?
+‎[5/8/25, 9:50:14 PM] Danielle Knutson: DP_lectures.ipynb ‎document omitted
+Person 2: Aren't you the one with the sloan class
+Person 2: Ms Dani
+Person 3: Dude…a handful of napkins is more valuable than a 100 dollar bill
+Person 2: I'm afraid I have 0 Jupiter Notebook knowledge
+Danielle Knutson: oops i think the bottom has somthing from my 18.05 class
+Danielle Knutson: you can put it into vs code
+Person 3: Bold of you to assume I’m passing 😂
+Person 2: Are you? 😂
+Person 3: Free notes
+Person 3: On paper 😂
+Person 2: Then my assumption was correct!1
+Person 3: Nah bro I swear I don’t understand the professor when bro talks frl
+Person 3: Bless up mi general 🙏
+Danielle Knutson: try to only look at the matrix multiplication stuff to help you with the pset so that i have something to teach ( hint: the potential s is the k)
+Person 3: Haffi go study dis ya sitn ya now
+‎[5/8/25, 11:52:49 PM] ~ Person 6: Y'all done Q5 in 6.390? ‎image omitted
+Person 3: Not yet
+Person 3: It doesn’t work for me
+Danielle Knutson: it’s an error with your other functions
+Danielle Knutson: click view answer on the other coding and paste in your answers
+Danielle Knutson: their*
+Danielle Knutson: [0.0789480060338974, -0.2069215476512909, 0.0800420269370079, -0.1686033010482788, 0.0936351865530014, -0.19312027096748352, 0.06085892766714096, -0.24304574728012085, 0.047425635159015656, -0.26113757491111755]
+Person 2: Yo concerning this question
+Person 2: From what I understand, we're kinda doing a binary search right?
+Person 2: But now, let's say I'm binary searching, but the middle index "p" I choose is maximally expensive (let's say infinity)
+
+This would lead to a really bad mana cost, so I can't necessarily choose the middle index
+Person 2: But now what if I choose the middle index, and it's minimally cheap (say 0).
+
+This would lead to a really good many cost right?
+Person 2: My issue here is that I feel like a binary search is the best way to minimize the number of checks you need, but it might not necessarily minimize the cost
+Person 2: But holdon maybe here's where DP comes in I'm thinking on the spot rn
+Person 2: Lmk if this makes sense
+Person 2: Instead, we try checking every index as the middle point "p", and take the point which minimizes our cost, then by DP we recurse on the side where our s might be
+Person 2: Does this make sense?
+Person 2: Also are we trying to minimize or maximise mana cost?
+Danielle Knutson: we’re trying to minimize the mana cost but taking the maximum route if that makes sense
+Danielle Knutson: it’s the worst case input so we need to check it’s the worst case
+Danielle Knutson: but we want to minimize the cost of this worst case input
+Person 2: So kinda like min mana cost assuming we use all of our k?
+Danielle Knutson: yea kinda but also s is in the worst place
+Person 2: I see, what does that mean tho?
+Person 2: For s to be in the worst place
+Danielle Knutson: it’s kinda like binary search where we’re splitting the space into whether the current index is less than s or greater than s
+Person 2: Mhm
+Person 2: Would we have to try every split to know the best one?
+Person 3: Ur trying to minimize O(number of steps) not number of steps itself
+Person 2: I think I see
+Danielle Knutson: but we need to do a linear search to get the minimum of the cost on the maximum of whether the current index is less than or greater than s
+Danielle Knutson: because we technically don’t know
+Danielle Knutson: wait is it steps?
+Danielle Knutson: i honestly wouldn’t try to go deep into it
+Danielle Knutson: first just tell me what the sub problem is
+Danielle Knutson: based on the problem statement
+Person 2: M(i, j, n) is worst case mama cost in range T[ i : j ] with n checks remaining
+Person 2: So solution is M(0, n, k)
+Danielle Knutson: alright so what operation are we doing in the relate step
+Person 2: Some min operation
+Danielle Knutson: yea
+Danielle Knutson: now what are we taking the min of
+Person 3: No mana cost
+Person 3: But its proportional to steps
+Person 3: Technically
+Person 2: I'm trying to wrap my head around it
+
+But I think taking min of taking a split at a given point in range i to j
+Danielle Knutson: yea
+Danielle Knutson: but the specific range is gonna symbolize whether at each point the “egg will crack”
+Person 2: Dani you speaking in parables now
+Danielle Knutson: if “the egg doesn’t crack” then we still have an egg if not then we lost an egg
+Danielle Knutson: i’m speaking in egg drop problem
+Person 2: Ohhh
+Person 2: It's been a while since I've read that problem
+Person 2: But I think I can infer what you're saying
+Danielle Knutson: wait i can translate
+Person 2: Nah wait gimme 1 sec
+Danielle Knutson: if s is less than the current index then we lose a mimic if not then we have the same amount of mimics
+Person 2: Okok this means I inferred correctly what you meant
+Person 2: This question is kinda fun, but yeah would be impossible without parenthesis questions 😭
+Danielle Knutson: yea lol
+Danielle Knutson: i didn’t understand until i read through the matrix multiplication and egg drop problem lmao
+Danielle Knutson: it’s a tough one
+Danielle Knutson: but lmk if you want me to look at what you have
+Danielle Knutson: i asked the ta today about what i did
+Danielle Knutson: so i think i got it right
+Danielle Knutson: (he was a little vague)
+Person 2: Okok nice nice
+Person 2: I'll take an SS soon just writing it up
+‎[5/9/25, 9:29:38 PM] ~ Person 6: This make sense for 2a? ‎image omitted
+‎[5/9/25, 9:47:49 PM] ~ Person 6: And does this make sense for 2b? ‎image omitted
+Danielle Knutson: for 2a when are you deciding which one to assign to the memo
+Person 2: Oh I'm such a goofy goober
+Person 2: But M(i, j, p) = All that
+Person 2: So you take the min of all that as your value for a given M(i, j, p)
+Danielle Knutson: ahhh okay
+Danielle Knutson: the only thing is to find the worst case you have to take the max between the point being less than s and greater than s
+Danielle Knutson: then you can take the min outside of that
+Danielle Knutson: if that makes sense
+Danielle Knutson: and your else isn’t necessary
+Person 2: Okay lemme see
+Person 2: So we want to Maximise our Mana, so we choose the side that maximises instead of minimizes?
+Danielle Knutson: we want to take the worst case but minimize our way there
+Danielle Knutson: i promise you if you understand the basics of it and not the worst case part then you’re fine
+Danielle Knutson: as long as you get how the egg drop part of the problem works you’re okay which it looks like you do
+‎[5/9/25, 10:44:50 PM] ~ Person 6: ‎image omitted
+Person 2: Okok fair
+Person 2: I'll just write something up
+Danielle Knutson: also make sure you’re taking the max between the two options
+Danielle Knutson: you can combine that into one line
+Person 2: Hmm okay
+Person 2: So we're finding what minimises the check
+Person 2: But then taking the max of checking either side
+Danielle Knutson: yes exactly
+Danielle Knutson: well
+Danielle Knutson: we’re minimizing the check but minimizing the check of the “worst case input”
+Danielle Knutson: and finding the worst case by taking the max
+Person 2: I see I see (nah I'm still a little confused)
+Person 2: But I think I can accept that it seems like an English issue low-key 😭
+Danielle Knutson: no for real
+Danielle Knutson: as long as you get the other more algorithm stuff you should be fine
+Danielle Knutson: the rest is just semantics
+Person 2: Yeahhh
+Person 2: I added you guys as collaborators for 2 btw
+Danielle Knutson: does that mean i have to add you
+Person 2: Maybe I'm not sure
+Person 2: I could also resubmit without the namnes
+Danielle Knutson: i can change it just make sure Person 4 sees it ig
+Danielle Knutson: so he can change his
+Person 3: Yo I’m not around my pc
+Person 3: Best u guys just take me off both urs
+Person 2: Ah that's np
+Person 2: I'll just put mine as none
+Person 3: Yeah sry bout that ‎<This message was edited>
+Person 2: Y'all what classes are you guys taking next semester?
+‎[5/13/25, 11:45:30 AM] ~ Person 6: 18.404 is apparently a difficult version of 18.400 ‎image omitted
+Person 2: But tbf idk what I'm taking in general so just trying to explore
+Danielle Knutson: i’m taking 18.404, 6.4400, 6.c571, and 11.011
+Danielle Knutson: I’ve heard really good things about 18.404
+Danielle Knutson: I think Ignacio said he took that one and really enjoyed it
+Person 2: Do we wanna go through a past exam?
+Danielle Knutson: when are you free?
+Danielle Knutson: also are we able to prove by induction instead of monotonicity or for the entire proof including for the gap
+Danielle Knutson: gcp
+Person 2: I think induction is fine to use (based on what I've seen)... It just tends to be longer than GCP + Monotonicity
+Person 2: I'm free essentially any day... Just got a few things going on today
+Danielle Knutson: have you been doing 6.390 practice
+Danielle Knutson: because i have not been doing well and im not sure what ive been missing
+Person 3: Just started reviewing the content really
+Person 3: I should be done by 12 pm tonight if yall are up then
+Person 2: 12pm? 💀
+Person 3: 12 am I mean 😂
+Person 2: Dym on the practice finals?
+Danielle Knutson: yea
+Person 2: Still tryna get through content can't lie 😭
+Person 2: But almost there
+Danielle Knutson: i was feeling bad but then i looked at the stats on them
+Person 2: Praying I finish by tonight so I can do practice finals
+Person 2: Yo what're they like?
+Danielle Knutson: you got this
+Danielle Knutson: they’re a little more brain worky than the midterm
+Danielle Knutson: i’m gonna have to really take my time because i make stupid mistakes and they kinda make you have to think outside the box i guess
+Person 2: Oh no 😭
+Person 2: I was hoping no thinking required
+Danielle Knutson: most are around low to mid 70s mean/median but one was 67
+Person 2: Honestly wish I licked in for that midterm 😭
+Danielle Knutson: so i thought i was doing really badly but it was around the mean
+Person 2: I see I see
+Person 2: Hmm
+Person 2: Are you able to make out any pattern in the way they want you "thinking outside the box"
+Person 2: Or does it feel more like rng?
+Danielle Knutson: like using the formulas and understanding what they mean
+Danielle Knutson: because you might have to use them in a way you haven’t yet
+Danielle Knutson: but every exam has an mdp, reinforcement learning and neural network problem
+Danielle Knutson: usually one non parametric problem
+Danielle Knutson: and a cnn problem
+Danielle Knutson: i’ve gotten one transformer/autoencoder
+Person 2: Ah ok that makes sense
+Person 2: Guess it's really testing conceptual understanding rather than just knowing how things work
+Danielle Knutson: yea kinda
+Person 3: Lowkey guys this cheat sheet running out of space
+Person 2: There is a LOT to remember
+Person 3: I’m in that one in building 4 lecture hall doing ml if yall up for it
+Person 2: I'm at rotch might pull up once I finish past paper
+‎[5/18/25, 9:14:39 PM] ~ Person 6: 6.390 studying ‎video omitted
+Danielle Knutson: lmao
+Danielle Knutson: valid
+‎[5/18/25, 9:18:14 PM] ~ Person 6: Boss fight ‎video omitted
+Person 2: Best of luck y'all
+Person 2: See you in 39 mins!!
+Person 3: Right back at you squad 💪
+Danielle Knutson: good luck Person 4
+Person 2: ☝️You got this
+Person 3: Guys computability isn’t coming right?
+Danielle Knutson: what
+Person 3: Lecture 23
+Person 3: I’m pretty sure in lecture he said no but I’m stressing rn so I’m second guessing that memory
+Danielle Knutson: wait like it’s not on the exam
+Danielle Knutson: i think it is
+Person 2: Wait it is I'm pretty sure
+Person 2: Like P and NP or that one last lecture that I slept in?
+Person 3: F***
+Person 3: tell me ur joking
+Danielle Knutson: think of np complete as a sink
+Danielle Knutson: all of np goes to np-complete
+Person 2: Wait holup
+Danielle Knutson: and because p can be solved in p then we know it’s also p
+‎[5/19/25, 9:44:47 PM] ~ Person 6: Is this last one on there? ‎image omitted
+Danielle Knutson: so everything (except exp) doesn’t go in the sink
+Danielle Knutson: the 24th one isn’t tho
+Person 2: Oh that's crazy
+Danielle Knutson: at least based on what it says on piazza
+Person 2: Oh wait
+Person 2: Wait yeah that checks out
+Person 2: Halt was on the practice exam
+Danielle Knutson: yea
+Person 2: Y'all the Mod question solution is kinda genius
+Person 2: I see it now
+Person 2: I'm picking up what you were putting down Dani
+Person 3: Guys
+Person 3: We haven’t done much practice but in terms of content coverage
+‎[5/20/25, 5:12:46 AM] Person 3: I think we finally got it ‎image omitted
+Person 3: Bro wtf ain’t no way there’s light outside
+Person 3: Wild
+Person 3: I think I got 45 more mins in me
+Person 3: Guys can I ask a big favor
+Person 3: If 12pm hits and I haven’t indicated I’m awake
+Person 3: Someone please call me
+Person 3: 😭😭🙏🙏
+Danielle Knutson: omg
+Person 2: My brother in Christ
+Person 2: You're gonna have to BFS to find content on there
+Person 2: But you're also NOT gonna lack in course content 😂
+Person 2: 😂😂😂
+Person 2: I wheezed bro
+Person 2: Yes sir 😂😂🫡
+Person 3: We up 💪
+Person 2: Thank you for letting us know 🫡
+‎[5/21/25, 9:27:44 PM] Person 3: Person 6 getting in on that entrepreneur type shit 😂😂 ‎image omitted
+Danielle Knutson: it’s like knowing a celebrity
+Person 3: Realll
+Person 3: Person 6 when u get rich remember us 🙏
+Danielle Knutson: ✊
+Person 2: I'd like to thank Person 1 for being there every step of the way 🙏
+Person 3: Lowkey
+Person 2: How did it go 👀
+Person 3: Better than other midterms
+Person 3: Still shit by relative standards
+Person 2: Oof but at least it's better
+Person 3: What about you guys
+Person 2: Bro
+Person 2: I got an A on it
+Person 3: YOOOOO
+Person 2: But I fear the grade cutoff for an A is not attainable 😔
+Person 3: LETS GOOOOO
+Person 3: Person 6 WITH THE CLUTCH FRL
+Person 2: YESSS THOOOOO
+Person 3: 💪💪💪💪
+Person 2: WE MAKING IT THROUGH ALGORITHMS WITH SOME KNOWLEDGE
+Person 2: Just hope this doesn't become like 6.1200 where I can't even remember how mod works 💀
+Person 3: I just realized ML is out as well
+Person 2: Nah I got cooked on that stuff 💀
+Person 2: Was working towards an A and almost got a C 🙃
+Person 2: BUT WE MADE IT THROUGH THAT CLASS TOO
+Person 3: Bro
+Person 3: I ended with a C in both of these classes
+Person 3: Good Lord
+Person 3: My GPA is gone
+Person 3: Vanished
+Person 3: Non existent ‎<This message was edited>
+Person 2: Bruh 😭
+Person 2: Bro at least
+Person 2: We NEVER have to do these classes again
+Person 3: There is no at least
+Person 3: It is just least
+Person 3: I’m fucking cooked
+Person 3: Great way to start summer
+Person 3: Amazing
+Person 2: Yo 😭
+Person 3: At least they gave me an A for IR
+Person 2: Ain't no way bro got an A in IR
+Person 2: That's a feat I can tell you not everyone achieves 😭
+Person 3: I might be a fraud guys
+Person 3: I’m the Mike Ross of MIT ‎<This message was edited>
+Person 3: What the fuccccj
+Person 2: From suits? 😂
+Person 3: Yeah
+Person 3: I’m in jail rn
+Person 2: Wait Nani 😃
+Person 3: No like
+Person 3: At the beginning of this semester my GPA was 4.6
+Person 3: Now it’s 4.4
+Person 3: I want to cry
+Person 2: Wait holup bro
+Person 2: Your gpa ain't bad 😭
+Person 3: L
+Person 2: Mine's at a 4.3 and I think it'll stay there, but I was really hoping to boost it up
+Person 3: Person 6 the difference is my distribution is shot
+Person 3: It’s shit
+Person 3: Cuz a C IN BOTH intro ml and algorithms won’t do shit
+Person 3: Doesn’t look good
+Person 2: Yeah I see what you mean
+Person 3: If we look at this terms gpa by itself it’s a 3.9
+Person 3: I’m like bottom of the barrel
+Person 3: Literally crashing out
+Person 2: Nah there's defo still opportunity to break outta this
+Person 2: We're halfway through, there's still a bunch of classes you can take to "show" people that you know your stuff
+Person 3: Yeah hopefully
+Person 3: I’ve taken 3 semesters in a row with 4 finals
+Person 2: Might be harder than before and unfortunate, but still doable
+Person 2: Yooo
+Person 3: I think I’m gonna be strategic now
+Person 2: MMMMMM
+Person 3: Next semester I’m going light
+Person 3: 2 non technical
+Person 2: I feel you honestly that's why I dropped Quantum 😭
+Person 3: 2 technical
+Person 2: Mmm that sounds good
+Person 3: And gel can serve as a good gpa boost
+Person 3: Alr alr
+Person 3: POSITIVE THINKING
+Person 3: 💪💪💪
+Person 3: Let’s go
+Person 2: WE GOT THIS Person 4
+Person 3: I’m trying to decide whether or not I should PNR either ML or Algs ‎<This message was edited>
+Person 2: Hmm
+Person 2: Are you 6-4 or 6-3?
+Danielle Knutson: yea we got this
+Danielle Knutson: we’ll learn from our mistakes
+Danielle Knutson: but also you’re not a fraud Person 4
+Danielle Knutson: you tried to do hard classes all at once and that’s a struggle for many many people ‎<This message was edited>
+Danielle Knutson: you passed all of your classes despite of that and i think that’s worth something
+Danielle Knutson: also your grades aren’t indicative of how “fraud” you are
+Danielle Knutson: c’s don’t mean you don’t belong
+Person 3: Same as you bro
+Person 2: PREACH
+Person 3: 😭🙏
+Person 2: Hmm I'd get other people's opinions too, but maybe PNR algorithms since you're more likely going to show that you properly took ML even if your grade isn't ideal
+Person 3: Hmm
+Person 2: I feel like PNRs can sometimes look like "I didn't care too much to lock in" but ik people also say it's better to PNR the subject you're more likely to find helpful, so it just hides whatever grade you got ‎<This message was edited>
+Person 2: But I'd get other people's opinions too
+Danielle Knutson: yea maybe ask your advisor
+Person 2: Also not saying that if you did PNR then it would mean any of this, but there's some form of boldness not PNRing classes related to what you're gonna do in future unless you fail it
+Person 2: This is much better advice 😂
+Person 3: Guys
+Person 3: My advisor is new
+Danielle Knutson: ask a different advisor then lol
+Danielle Knutson: steal someone else’s
+Person 3: She doesn’t know anything about mit courses and has asked ME for opinions
+Danielle Knutson: 💀
+Person 3: Who tho 😭😭😭
+Person 3: You think Anand will not think I’m stupid? 😂😂
+Danielle Knutson: i’m sure he won’t
+Person 2: It's over
+Person 2: Nah ask Anand lowkey 😂
+Person 2: And no he won't think your stupid 😂
+Person 2: you're* 😔
+Person 3: It’s the shortest shortest shortest path to humiliation 😭😭
+Person 2: I don't think you'll be the first person asking him
+Danielle Knutson: but also i don’t know if anand would be a good advisor
+Danielle Knutson: just because i’m not sure if he has experience with that
+Danielle Knutson: Person 6 who is your advisor
+Person 2: Never met him 😭
+Person 2: He just accepts my registrations
+Person 3: #wild
+Person 2: I've sent him an email but he never responded
+Person 3: Lowkey guys thank you so much for the advice. Yall really making me feel better 🙏🙏🙏
+Person 3: Maybe u should be my advisors
+Person 2: Awwww what did you say Person 4? 🥺
+Person 2: Nah but fr it's what we got each other for 😂
+Danielle Knutson: literally
+Danielle Knutson: course 6 support system
+Person 2: Yap about our journeys through this place
+Person 2: EFF ARR
+Person 2: (fr)
+Danielle Knutson: for one second i felt old that i didn’t know an acronym
+Person 2: gotem
+Danielle Knutson: i was about to look it up
+Person 2: Wait dym EFF ARR or fr? 😂
+Person 3: Wut
+Person 2: think about it
+Person 2: let it marinate
+Person 3: I have a 5 hr layover I got time
+Person 3: I need a hint
+Person 2: Pronounce it
+Person 3: Guys maybe I am stupid
+Person 3: Bro literally put it in brackets 😭😭😭😂😂😂
+Person 2: LOL 😂
+‎[6/2/25, 6:52:15 PM] Person 3: @⁨Danielle Knutson⁩ wtf bro ‎image omitted
+Person 3: I was gonna rank up
+Danielle Knutson: my bad bro
+Danielle Knutson: get good
+Person 3: 😭
+Person 3: Nah bro I accidentally opened the chat dawg
+Person 3: And saw the profile pic
+Person 3: 😭😭😭😭😭
+Person 3: Nah the delay goes crazy
+Person 3: I’m pretty sure I sent that message like 3 hrs ago wtf ‎<This message was edited>
+Danielle Knutson: lmaooo
+Person 2: Dani what is your profile picture 💀
+Person 2: Idk how it took me so long to notice
+Danielle Knutson: wd
+Danielle Knutson: um
+Danielle Knutson: wdym
+Person 2: ain't no way
+Person 3: Bro I’m pretty sure I played that same dude a couple days ago
+‎[6/18/25, 9:14:26 AM] ~ Person 6: dani jumpscare ‎image omitted
+Person 3: 😱😱
+Danielle Knutson: dayum
+Person 2: YOU CHANGED YOUR PFP TO THE PHOTO
+Person 3: Lmaooo
+Person 2: Or at least a photo with the same fit
+Person 2: If anyone says "This is Dani" her pfp changes
+‎[6/18/25, 11:22:05 AM] ~ Person 6: Dani Spotted ‎image omitted
+Danielle Knutson: what
+Person 3: 😂😂
+‎[6/18/25, 8:18:59 PM] Person 3: Omg I know this guy 😱😱😱🙏🙏🙏 ‎image omitted
+Danielle Knutson: a celebrity !!!
+Person 2: Dani passed the vibe check 😂
+Person 2: Me trying to be nonchalant when sending an email
+Person 3: Bruh Apex legends is actually unplayable
+Person 3: Only people playing now are Predators or former predators
+Danielle Knutson: I’m almost at 1 million damage on apex
+Person 3: Insane
+Person 3: Plus I don’t get this new legend
+Danielle Knutson: on just bangalore
+Person 3: They’re running out of ideas
+Danielle Knutson: the italian
+Person 3: Hanzo from wish
+Person 3: Bloodhound lowkey does everything better than bro
+Danielle Knutson: woah crazy take
+Person 3: I know right
+Person 3: Valk still sucks ass but idc I’ve gotten too used to her movement it’s wierd to play anyone else
+Danielle Knutson: a valkyrie main
+Danielle Knutson: damn
+Person 3: Ikr
+Person 3: Lmao just got the most bullshit win of all time
+Person 3: We take those
+Danielle Knutson: A win is a win
+Person 3: https://www.instagram.com/reel/DLC6MndTSrk/?igsh=dWYyZW1scTM4aWNo
+Person 3: @⁨~Person 6⁩
+Danielle Knutson: lmao sent from reels
+Person 3: 😂just ignore that part
+Person 2: What
+Person 2: Nah I was just on YouTube bro 😂
+Person 2: The lesser of two evils
+Person 2: Honestly I'm down to hope on apex and get absolutely cooked
+Person 2: Never played before but if y'all wanna play I'll download it
+Danielle Knutson: bro the Person 1 becomes the apex squad
+Person 3: 👀👀👀
+Person 3: We need to move this shit to discord then
+Danielle Knutson: bro if you download
+Danielle Knutson: add me, it’s knute70
+Person 3: Me as a mere level 210 am about to add a predator to my friends list
+Person 3: I’ll never win BR again 😭😭😭
+Danielle Knutson: i swear i’m bad at this game now
+Danielle Knutson: i’ve fallen off
+Person 3: 🧢
+Person 3: When I get home I’ll add u
+Person 3: @⁨~Person 6⁩ 👀
+Person 2: Okay wait lemme download rn
+‎[7/22/25, 12:36:10 PM] ~ Person 6: Y'all 💀 ‎image omitted
+Person 3: 😭😭😭
+Person 2: Is this on EA app or in Apex?
+Person 2: Gonna have to think a bit about how I'll make space for that
+Danielle Knutson: lmao
+Danielle Knutson: in apex
+Person 2: okok
+Danielle Knutson: wait bro did you add me
+Danielle Knutson: i accidentally rejected it
+Person 3: Yeah 😭😭
+Danielle Knutson: when do you play
+Person 3: I’m like gonna be offline for the next few days but mostly in the nights
+Danielle Knutson: lol sounds good
+‎[7/29/25, 4:58:44 PM] ~ Person 6: BRO WHAT IS MICROSOFT EDGE USING MY GPU FORRR??? ‎image omitted
+Danielle Knutson: dayummmm
+Person 3: Alr guys Apex when?
+Danielle Knutson: you free tonight?
+Person 3: should be
+Person 3: what u sayin @⁨~Person 6⁩
+Person 3: did ya get space on ur pc?
+Person 2: Oh snap 💀
+Person 2: Nah I'll work on that tmrw
+Person 2: Unfortunately busy tonight 😔
+Person 2: But if y'all play on Discord lmk I'll watch in vc
+Person 3: Bet
+Danielle Knutson: You free now?
+Person 3: Yeah come on then
+Person 3: Discord?
+Danielle Knutson: yea gimme like 10 minutes sorry
+Danielle Knutson: https://discord.gg/cZdypwe9
+Danielle Knutson: i’m on
+Person 3: Crazy just played like shit
+Danielle Knutson: i’m so bad anyways bro
+Person 3: ur stats say otherwise
+Danielle Knutson: that was a long time ago my guy
+Person 3: crazy
+Person 3: crazy how i haven't actually friended Person 6 on discord yet
+Danielle Knutson: what’s Person 6’s discord
+Person 3: mixtoons
+Person 2: That's crazy
+Person 2: What's your discord again?
+Person 3: I just sent a friend request
+Person 3: Remember that one fro
+Person 2: Wait what? 😃
+Person 2: Yeah you're gonna have to tell me your handle
+Person 3: Hop on Person 6 👀
+Person 3: When you can 😭
+Person 3: Yo quick question
+Person 3: yall got an easy HASS-A class that u recommend?
+‎[8/16/25, 2:19:22 PM] Danielle Knutson: ‎image omitted
+Danielle Knutson: or there’s another intro music that’s also pretty easy
+Person 2: Banger!! ^^☝☝🏾
+Person 3: Okay I’ll check it out. Blessings guys 🙏🙏🙏 ‎<This message was edited>
+Person 3: @⁨~Person 6⁩ bro what u sayin abt NLP this sem??
+Danielle Knutson: wait the new one or the old one
+Person 3: 6.4610 yeah
+Person 3: New one
+Person 3: Also
+Person 3: https://arxiv.org/abs/2504.17033
+Person 3: This is crazy
+Danielle Knutson: Bro how did you find this
+Danielle Knutson: I was actually thinking of taking that but was a little skeptical because it’s a new class
+Person 2: I considered it 👀
+Person 2: Low-key might reconsider
+Person 2: Ain't no way
+Person 2: Can the authors adopt me? 🥺(Give me a UROP)
+Person 3: Peter sent it to me
+Person 3: Ayo join up bro 👀👀👀👀
+Person 3: Nobel prize pending frl
+Person 2: YO
+Person 2: THAT'S WHAT I'M SAYIN
+Person 3: No frl get some of that money money 😂😂😂
+Person 2: I just saw a notebookLM video on this, the algorithm is actually cracked ‎<This message was edited>
+Person 2: If you're limited by the fact that sorting takes Ω(n log n) then to improve it, simply don't sort
+Person 2: Then they use divide and conquer cuz that stuff is everywhere 🤩
+Person 2: Divide and Conquer using Bellman-Ford + Dijkstra = this paper
+Person 2: Smaller size = no need to sort everything, so you're not bounded by Ω(n log n)
+Danielle Knutson: dayum send the video
+Person 2: https://youtu.be/PRPsJiWOLpw?si=0F_cQkNsdij-jAZj
+Person 3: guys why is this subject at 9:30 in the morning
+Danielle Knutson: wait really there should be a lot of different slots
+Danielle Knutson: for 9:30 and 11 and mw or tuesday thursday
+Person 3: https://www.instagram.com/reel/DN0gtQKXFJi/?igsh=MXAzeXllcGQ0MzBzcA==
+Person 3: OMG I KNOW THAT GUY 🤩🤩🤩
+Danielle Knutson: celebrity siting
+Person 3: grammar police
+Danielle Knutson: ahh shoot bro
+Danielle Knutson: i go to an engineering school don’t @ me
+Danielle Knutson: lol
+Person 3: 😂
+Person 3: broooo
+Person 3: guys get this
+Person 3: someone told me theyre doing 111 units this semester
+Person 3: he registered already
+Person 3: im literally flabbergasted
+Danielle Knutson: dayum
+Danielle Knutson: did you guys decide on classes?
+Danielle Knutson: drop the schedules
+Person 2: Aint no way 💀
+Person 2: This actually got me laughing LOL
+Person 2: No they didn't
+Person 2: 😳
+‎[8/27/25, 1:08:19 AM] ~ Person 6: Okay so ‎image omitted
+Person 2: 6.S056 and Yoruba will likely fall off
+Person 2: It's either I take Yoruba or 21M.302
+Person 2: Issue with Yoruba is that it clashes with 6.4400, so imma see if 6.4400 has lecture videos and if it does then I'll vibe with that
+Person 2: 6.S056 is a new class and it sounds interesting so we'll see but I don't think I'll keep it for long
+Danielle Knutson: damn i have a stalker
+Danielle Knutson: lol
+Danielle Knutson: jk
+Danielle Knutson: i need to drop some classes
+‎[8/27/25, 1:55:08 AM] Danielle Knutson: ‎image omitted
+Danielle Knutson: i still don’t know if i got 11.011 yet
+Person 2: You the one stalking me 🙄
+Person 2: Oh snap you also going the drop-class route
+‎[8/27/25, 2:31:24 AM] Person 3: ‎image omitted
+Person 3: no way we all in 440
+Person 3: hell yeah
+Person 2: LET'S GOOO
+Person 2: Kinda nice with it
+Danielle Knutson: stalkers 👀
+Person 2: You taking 7 classes or dropping Person 4?
+Person 2: I showed my schedule first so y'all are the stalkers
+Person 3: those are all my classes
+Person 3: its a lower course load this sem
+Person 3: higher outside of classes
+Person 2: Brother you got 7 classes on there or am I trippin? 💀
+Person 3: cuz im doing 2 UROPs, 1 in school, 1 outside, and a UPOP course assistant
+Person 3: some of them are GEL stuff
+Person 3: easy shit
+Person 2: Ohhhh
+Person 2: Okok doable
+Person 3: only 2 technicals
+Person 2: Oh wait that's beautiful
+Person 3: yeah. It means I have to take a higher load in spring
+Person 3: but after 4 straight terms of 4+ finals
+Person 3: im tired
+Person 3: need a break
+Person 3: why does this look like hell
+Person 3: this too omg bro
+Danielle Knutson: it’s so terrible that all the classes i wanna take don’t overlap
+Danielle Knutson: i don’t know how to decide which classes not to take
+Person 3: flip a coin
+Person 3: deadass
+Person 3: @⁨~Person 6⁩
+Person 3: im cooking something special
+‎[8/27/25, 2:36:22 AM] Person 3: ‎image omitted
+Danielle Knutson: dang what is that
+Person 3: i learnt how to animate manga panels
+Danielle Knutson: wait bro why did i not check my discord until now
+Danielle Knutson: do you like brooklyn 99
+Person 3: its a comfort show
+Person 3: its great
+Danielle Knutson: for reallll
+Danielle Knutson: wait when did i recommend it
+Person 3: when we were playing Apex
+Person 3: couple days later I got bored
+Person 3: was looking for a movie but then ended up watching that
+Person 3: Im like at season 3 but I stopped
+Person 3: Its election time in Jamaica
+Person 3: im on my political grindset
+Danielle Knutson: lmaooo
+Danielle Knutson: that’s so funny
+Danielle Knutson: i love brooklyn 99
+Danielle Knutson: but you really gotta lock in
+Danielle Knutson: those politics aren’t going to critique themselves
+Person 3: so real
+Person 3: they had a debate tonight
+Person 3: wrote up a 14 page doc
+Person 3: https://docs.google.com/document/d/1xbGwQ-Jh3HkKHHgTVxnz0MJZUFmNsRCSiFln9GbjFXI/edit?usp=sharing
+Danielle Knutson: dayum
+Person 2: Nah this is seriously good
+Person 2: Ain't no need to overexert yourself
+Person 2: Oooof
+Person 2: All of mine do 💀
+Person 2: Ayo? 👀
+Person 2: NO WAY
+Person 2: Nah man's locked in
+Person 2: Wait I don't think locked in properly describes this
+Danielle Knutson: are you guys gonna do meng?
+Person 3: Prolly not
+Person 3: Go straight o a phd program
+Person 2: Think I will
+Person 2: Cuz I kinda do wanna do research for a lil bit
+Danielle Knutson: That makes sense
+Person 3: Guys
+Person 3: This took like 2 weeks
+Person 3: https://drive.google.com/file/d/19vWSuKZPK508gopvI1Z2gPrqOHlRyzsR/view?usp=sharing
+Danielle Knutson: bro that looks so cool
+Person 2: Yo dude that's actually crazy
+Person 2: How long have you had this skill? 👀
+Person 3: Editing for years, but the animation…
+Person 3: I learnt that shit 2 weeks ago
+Person 3: 😭
+Person 3: Yall it’s nearly time for the Person 1 to return
+Person 3: 👀👀
+Danielle Knutson: do either of you guys know c++
+Person 3: kinda
+Person 3: ish
+Person 3: u doing 1903?
+Danielle Knutson: no 6.4400 is in c++
+Person 3: Crazy
+Person 3: Shouldn’t be that bad
+Person 3: After all it’s just syntax looking up and it’s not that far off from C
+Person 3: Do you know c++?
+Danielle Knutson: no and i don’t know c
+Danielle Knutson: but it should be okay
+Danielle Knutson: we can try to learn
+Person 3: Ofc
+Person 3: Were the Person 1
+Person 3: Btw do any of you have access to the course website
+Person 2: 😰
+‎[9/2/25, 11:08:49 PM] ~ Person 6: ‎GIF omitted
+Person 2: Yes
+Person 2: Is it on canvas?
+Person 3: I’m not on the canvas for some reason
+Person 3: Have u guys been added?
+Person 2: Wait I don't think I've been added either
+Danielle Knutson: bro Person 6 did you see the 75% on exams for 18.404
+Person 3: Sorry WHAT
+Person 3: what course is that
+‎[9/3/25, 9:19:28 AM] ~ Person 6: ‎GIF omitted
+Person 2: I can't catch a break at this school
+Person 2: 6.370 got learning sequences
+Person 2: It's cooked y'all
+Person 3: Bruh
+Person 3: Have yall started assignment 0?
+Person 3: Cuz like config is not working cuz of a min version mismatch on windows
+Person 2: I still needa look at it 😔
+Person 2: @⁨Danielle Knutson⁩ I will not be at 18.404 today
+Person 2: Could you update me on how it goes?
+Person 3: guys I started assignment 0, going through the code walkthrough they give
+Person 3: really and truly it seems like just a syntax issue
+Person 3: same shit from the 6.12 series and 6.101
+Danielle Knutson: what
+Danielle Knutson: what is a syntax issue
+Person 3: Yk like just getting familiar with the syntax and stuff
+Danielle Knutson: are you going to the review session
+Danielle Knutson: for c++
+Person 3: I’m basically there rn
+Danielle Knutson: bruh can you take notes for me
+Danielle Knutson: i’m so far away that i’ll get there like 10 minutes late and it’s not worth it for me to be confused
+Person 3: Alr gotcha
+Danielle Knutson: btw Person 6 i dont think im going to do 18.404
+Danielle Knutson: it’s super proof oriented and i dont think im very good at those
+Danielle Knutson: but idk
+Danielle Knutson: i think i need a semester away from proofs
+Person 2: Oh no 😭
+Person 2: What were you hoping for in the class?
+Danielle Knutson: Idk that’s what i thought but the way he was talking
+Danielle Knutson: he lost me
+Danielle Knutson: and worried me lol
+Person 2: Ohh that's fair
+Person 2: Now I'm scared cuz I've already missed a class 😭
+Person 3: Person 1 joining NLP then? 👀👀
+Person 2: Wait lowkey
+Person 2: Dani are you still gonna go for another lecture?
+Danielle Knutson: yea minus well
+Danielle Knutson: im at 60 units rn so i can always drop
+Person 3: lol the review session was a massive fuck you
+Person 3: It was good
+Person 3: But a massive middle finger
+Person 3: It was very rudimentary
+Person 3: And looking at the homework
+Person 3: Ts ain’t rudimentary
+Person 3: 😭
+Person 2: Oh snap yeah makes sense
+Person 2: They tryna cook us
+Person 2: But they don't know that 6.1210 deep fried us
+Person 2: We can rise above this Person 1
+Person 3: A lot of stuff was a call back
+Person 3: Hash maps and everything
+Danielle Knutson: are there proofs in 6.4400
+Person 3: I think she said derivations
+Person 3: But not necessarily proofs
+Person 3: PTSD is setting in
+Danielle Knutson: for real
+Person 2: Spoke to 18.404 rec TA
+Person 2: He said he'd actually recommend 6.1220 over 18.404 if you're most interested in the algorithmic side rather than computability
+Person 2: Y'all so I need your help
+Person 2: @⁨Person 3⁩ NLP or @⁨Danielle Knutson⁩ Comp. Photography?
+Person 2: Can I even add a CI-M at this point? (NLP)
+Person 3: Honestly it depends on what you want
+Person 3: Plus we can’t even guarantee that we’d be in the same group for NLP since you have to placed in the same recitation to do so
+Person 3: And the choice deadline passed
+Person 3: So I’d suggest photography honsestly
+Danielle Knutson: can you take nlp?
+Danielle Knutson: don’t you need 6.370 or is it a core
+Danielle Knutson: coreq
+Person 2: Well it's settled then 💀
+Person 2: You make a good point
+Danielle Knutson: lmaooo
+Person 3: Lowkey though they told us that each HW takes 20 hrs to complete
+Person 3: Good choice dude 💀💀
+Danielle Knutson: how many are there
+Person 3: Idk off the top of my head
+Person 3: All ik is the first one is due in like 2 weeks
+Person 3: That’s like 10 hrs a week bro
+Person 2: What in the world bro
+Person 2: I guess it really is 15 units 😭
+Person 3: Guys the HW isn't actually that bad
+Person 3: for graphics
+Person 2: Imma take a look at it tmrw
+Person 2: I did not take a look at it tomorrow 💀
+Person 2: But I have now dropped 18.404 and I'm taking 6.3781
+Person 2: The grind about to start truly
+Person 3: When is the GLOO review session
+Person 3: After doing like 75% of the Hw
+Person 3: It’s needed
+Person 3: ✌️✌️✌️
+‎[9/9/25, 11:33:33 AM] Person 3: Our demons continue to haunt us ‎image omitted
+‎[9/9/25, 11:33:34 AM] Person 3: ‎video omitted
+Danielle Knutson: NP !!!
+Danielle Knutson: 💣😱
+Person 3: The class added the L in the middle
+Person 3: Like we wouldn’t know
+Danielle Knutson: they got yo ahh
+Person 3: So real
+Person 3: Is it too late to switch to photography 😭😭😭
+Danielle Knutson: lmaoooo no
+Person 3: Lmao ur lucky i seem to like torturing myself
+Person 2: Brooo if I go I will quite literally have 0 dinner
+Person 3: Same
+Person 3: I might just wait for the slides to get posted tbh
+Danielle Knutson: bro Person 4
+Danielle Knutson: is toggle_color implemented for you or are you supposed to do that
+Danielle Knutson: or is it that that’s where you put the code to change the color?
+Person 3: That’s just a placeholder yeah
+Danielle Knutson: okay cool
+Danielle Knutson: thank you
+Danielle Knutson: how exactly do we set a material
+Danielle Knutson: because there is stuff to set color
+Danielle Knutson: is it that we set the color and then set the colors to the material
+Person 3: i mean
+Person 3: after you make the node
+Person 3: you dont really set a material
+Person 3: if u dont want to
+Person 3: you ust kinda create the component
+Danielle Knutson: whattt
+Danielle Knutson: then how do you change the colors
+Person 3: then in the update function set the ambient colour
+Danielle Knutson: ohhhh
+Person 3: yeah
+Danielle Knutson: why do they say to change the material then
+Person 3: if u just follow their instructions it should work out
+Danielle Knutson: i guess going through and just changing the colors is changing the materials huh
+Danielle Knutson: for some reason it feels like i’m reading a foreign language
+Danielle Knutson: but it’s getting better lol
+Person 3: thats what I thought
+Person 3: no frl
+Danielle Knutson: bruh why is it not changing colors
+Danielle Knutson: oh is the rgb 0 to 1
+Danielle Knutson: or is it whole number
+Person 3: not sure, I just used the vector
+Person 3: um
+Danielle Knutson: wait for the code is it supposed to be a backwards curly for before we put C
+Danielle Knutson: or just regular quotes
+Person 3: Bruh wat
+‎[9/9/25, 7:56:40 PM] Danielle Knutson: ‎image omitted
+Danielle Knutson: is this the right syntax
+Person 3: Yeah
+Danielle Knutson: because when i pasted in the code they gave in the pset they were the different lines
+Danielle Knutson: this one: ‘
+Person 3: Oh right literally just erase it
+Person 3: Type it back inside cuz remember sometimes the whites are diff
+Person 3: It’s wierd idk
+Danielle Knutson: wait like the whole thing
+Danielle Knutson: or just the C
+Danielle Knutson: sorry i know you’re busy im just confused
+Danielle Knutson: wait bro can i call you rq
+Person 3: I’m at dinner
+Person 3: Gimme like 20 mins
+Danielle Knutson: oh mb what is a mesh and how do you add it to a bower
+Danielle Knutson: viewer
+Person 3: It’s the mesh viewer app
+Person 3: File
+Danielle Knutson: how do you add a mesh
+Person 3: Alr yo discord?
+Danielle Knutson: ‎Voice call, ‎‎2 min • ‎2 joined
+Person 2: Y'all psetting?
+Danielle Knutson: bro i’m struggling
+Danielle Knutson: Person 4 is helping me with concepts from the pset
+Danielle Knutson: we’ll be on discord if you want to join
+Person 2: Aight I'm at Cruesday but I might join if y'all are on late
+Danielle Knutson: btw Person 6 there’s an OH for 6.4400 at 4 so i’m going to that
+Danielle Knutson: i’m sitting in 34 lobby mr
+Danielle Knutson: rn
+Person 2: Oh snap I just got to stud
+Person 2: Is it building 34?
+Danielle Knutson: it’s in 36
+Person 3: Guys
+Person 3: We ain’t never going around crowds on a college campus anymore
+Person 3: They shot Charlie Kirk
+Person 3: And I saw the close up video
+Person 3: I’m now haunted
+Person 3: Quite literally just watched a man die
+Person 3: Oh nice
+Person 3: Did they corroborate everything u did?
+Person 2: Yo what
+Person 3: Kid you not
+Danielle Knutson: bruh wait where did you get it from
+Danielle Knutson: yes and i was getting that weird error again with the arm64
+Person 3: Dani do not ask for it
+Person 3: It is not fit for human viewing
+Person 3: Did you do directional light then?
+Danielle Knutson: Yes but it’s not compiling because of that error
+Danielle Knutson: so she said she’ll talk to people about it
+Danielle Knutson: and see if she can figure it out
+Person 3: Wild
+Person 3: I know how to fix it tho
+Danielle Knutson: don’t say it bro
+Person 3: what am I gonna say 😂
+Danielle Knutson: is it windows?
+Person 3: there’s no way you can definitively prove that 😂
+‎[9/11/25, 2:48:18 PM] ~ Person 6: GUYS ‎image omitted
+Person 2: I feel like a baby programmer
+Person 2: Changing 1 line of code at a time
+Person 2: I can't even see the error messages properly to know what I do wrong
+Person 2: BUT AT LEAST THE COLOUR IS DIFFERENT
+Person 3: Bruh why is it dismembered 😂😂
+Person 3: Bro really said
+‎[9/11/25, 2:49:41 PM] Person 3: ‎GIF omitted
+Person 3: “Dismantle”
+Danielle Knutson: dayummm
+Danielle Knutson: look at that progress !
+Danielle Knutson: are you in simmons working
+Person 2: Don't worry about it
+Person 2: No I'm at Hayden
+‎[9/11/25, 3:16:15 PM] ~ Person 6: We have white teapot ‎image omitted
+Person 2: I need to add the pressing C thing tho
+Person 2: But I have class now, so I will do that later
+Danielle Knutson: how did it go Person 6
+Person 2: It went... I feel like I'm understanding things slowly, so can't complain :)
+Person 2: I didn't get all the way to the pressing C thing just yet
+Person 2: Alsp
+‎[9/12/25, 12:45:43 AM] ~ Person 6: ‎image omitted
+Person 3: Hold on let’s just dissect this feed right here 😂😂😂
+Person 3: We got solo leveling up top
+Person 3: Fitness challenge right next to it
+Person 3: Then 67 brainrot
+Person 3: Then Charlie Kirk
+Person 3: 2025 what a time to be alive 😂😂😂
+Person 3: Algorithm makes no sense
+Person 2: Bro I gotta stay informed in every facet of life
+Person 2: Also are we actually doing the Nano quiz at the same time?
+Person 3: I mean
+Person 3: Might as well
+Person 3: I’m like busy till 5 ish
+Person 3: But it’s open 24 hrs
+Person 2: How do you guys debug C++ I honestly can't tell what the log is saying
+Danielle Knutson: What are you getting?
+Person 2: DANI
+Person 2: I will take your locking in offer
+Person 2: Where should I meet you? 🫡
+Danielle Knutson: oh bruh
+Danielle Knutson: uhhh let’s say macgregor
+Danielle Knutson: are you coming now
+Person 3: So yall ain’t doing the quiz?
+Person 2: Yeah just warming food
+Person 2: GAH
+Person 2: I forgot about that 😭
+Person 2: So many things and so little time
+Danielle Knutson: we’re meeting at macgregie if you want to come too Person 4
+Person 2: Actually is there a microwave at MacGregor?
+Danielle Knutson: yes
+Person 3: I mean I won’t be doing graphics there tho 🥲
+Person 3: But yeah why not
+Danielle Knutson: sick
+Danielle Knutson: let me know when you guys are here
+Person 3: Yo ima eat first
+Person 2: I have arrived at Macdonald's
+Danielle Knutson: big mac!
+Danielle Knutson: ?
+Person 2: WHOPPER
+Person 3: Wild
+Person 3: Bro Vassar dinner be slapping today frl frl
+Person 3: My God I haven’t been to this side of campus in YEARS
+Person 3: Holy shit where tf am I going
+Danielle Knutson: follow the big tower bro
+Person 3: Bet
+Person 3: Beg a tap in broski
+Person 2: @⁨Danielle Knutson⁩ imma look through 6.8371 pset today at 3:30pm and go to OH tmrw at 2pm if you wanna tag along 👀
+Person 2: Can also look at it another time today if another works better for you
+Person 2: After imma do 6.4400 if y'all wanna do a Person 1 special episode today
+Danielle Knutson: I did 6.8371 but i can work on 6.4400 during that time
+Person 3: Sorry bro
+Person 3: I’m booked all day
+Person 2: Locked in frfr 🥶
+Person 2: Yo
+Person 2: 6.8371 has such beautiful code
+Person 2: At least pset 0, which is not the one I should be looking at 💀
+Person 2: It's not just bombarded with 200 different files that I don't understand
+Danielle Knutson: ik right
+Danielle Knutson: but pset 1 is the same
+Person 2: In my days of walking this earth
+Person 2: I don't think I've seen such beauty
+‎[9/17/25, 11:07:15 AM] ~ Person 6: @⁨Person 3⁩ ‎image omitted
+Person 2: Where you at?
+Person 3: The reflection goes crazy
+Person 3: 😂
+Danielle Knutson: Person 6 what does your create special look like
+Person 2: I didn't even realise that bro
+Person 2: Oh snap I still gott work on it
+Person 2: Gamma encoding is indeed a little cooked
+Person 2: What exactly does it mean? 😭
+Person 2: Okay gamma encoding passed now at Quantisation
+Person 2: I'm confused over the range[0,1] they keep mentioning
+Danielle Knutson: yea bro did you skip it
+Danielle Knutson: they want you to basically put into groups then assign these groups a number
+Danielle Knutson: then squeeze those numbers from 0 to 1
+Danielle Knutson: look at the piazza post
+Danielle Knutson: lmk if it’s still not clear i can help more
+Person 2: Okay so do you floor the values to each bucket essentially?
+Person 2: I think that's what piazza is saying
+Danielle Knutson: yea
+Danielle Knutson: but if you think that’s going to take too long you might want to move on
+Danielle Knutson: you do have late days though
+Person 2: Alr lemme see what I can do
+Person 2: For gray world, are we meant to just use the average value of the green channel for everything?
+Danielle Knutson: yea you want to use the average green value as the target
+Person 3: Nah bro u gotta use the avg value of the red channel
+Person 3: Trust me
+Danielle Knutson: Person 3
+Person 3: Cope harder
+Person 3: I’m smort
+‎[9/17/25, 8:40:37 PM] Danielle Knutson: ‎GIF omitted
+Person 2: Okay so the average of my entire red channel should be the green channel average?
+Danielle Knutson: yea
+Person 3: Omg I told you
+Danielle Knutson: you can do that by multiplying by average green/average red
+Person 3: I’m glad u got the reference
+‎[9/17/25, 8:43:10 PM] ~ Person 6: ‎image omitted
+Person 2: brooklyn
+Danielle Knutson: wait why is mine black in the backgorund
+Person 2: Did you change the background to white?
+Person 2: Also I don't think I have been given access to the submission website 😭😭
+‎[9/17/25, 8:53:30 PM] ~ Person 6: It's this one right? ‎image omitted
+Danielle Knutson: it should be your kerb as username
+Danielle Knutson: and password is student id
+Person 2: Nope it ain't working
+Person 2: I sent a private post on piazza... I was striving against the wind y'all 😔
+‎[9/17/25, 9:00:38 PM] ~ Person 6: On the bright side tho ‎image omitted
+‎[9/17/25, 9:00:59 PM] ~ Person 6: Did some crazy image processing ‎image omitted
+Danielle Knutson: yayyy!!
+Danielle Knutson: bruh but maybe get free late day
+Person 2: Maybe? 😳
+Person 2: Yo Person 4
+Person 2: You free at 3pm for 6.4400?
+Person 2: Or just general psetting
+Person 3: I would be
+Person 3: But Person 6
+Person 3: EECS career fair is today
+Person 3: U wanna meet at 3 and then like go to the fair for an hr
+Person 3: @⁨Danielle Knutson⁩ you too cuz ur course 6 now
+Person 2: Yeah sure sure
+Person 2: Only thing is that your boy got 6.101 training at 4:30 😔
+Person 3: Nah we can just look around if we go early
+Person 3: Gonna take less than 30 mins cuz it starts at 4
+Person 3: Where u saying
+Person 2: Maybe we work in Building 45
+Person 2: So we can just go upstairs at the time
+Person 3: Bet bet
+‎[9/18/25, 11:19:15 AM] Danielle Knutson: ‎image omitted
+Person 3: I’m so confused
+Person 3: Why is peacemaker in a cake
+‎[9/18/25, 11:39:35 AM] ~ Person 6: ‎video omitted
+Person 3: Insane movements
+Person 3: Why is the class so empty 😭😭
+Person 2: Think maybe there's not too many people enrolled
+Danielle Knutson: i’m on the 7th floor
+Person 2: Ah alr I'll come up
+Person 3: I’ll be there like 3:15
+Person 2: Dani where r u?
+Person 2: Oh nvm
+Person 3: Bruh where Yall at
+Danielle Knutson: brush
+Person 3: Huh
+Danielle Knutson: brush your teeth
+Danielle Knutson: oops
+Danielle Knutson: autocorrect
+Person 3: Okay
+Person 3: What
+Danielle Knutson: i meant to say 7th floor of schwartzmann
+Person 3: https://docs.google.com/forms/u/0/d/e/1FAIpQLSfp6mpRxmF1afBlN6Ol6_egJuHnFt8vj4VUlp1SDK1IoRf1PQ/formResponse
+Danielle Knutson: bruh brynmor is pulling up
+Danielle Knutson: i went back down
+Person 2: Brynmor tryna dip from 1210 💀
+Person 3: 💀💀💀
+Person 3: Bro yall left?
+Person 3: Oh wait yeah Person 6 has his thing
+Person 3: When we finishing graphics then?
+Danielle Knutson: I think Person 6 is done at 6:30
+Person 3: 👀
+Danielle Knutson: bruh
+Danielle Knutson: Person 6 gone
+Person 3: Bro…
+Person 3: wtf is this pset
+Person 3: I think I figured out what to do conceptually
+Person 3: But code wise
+Person 3: …
+Danielle Knutson: That’s what i was saying bro
+Danielle Knutson: omg
+Person 3: Like I get that u have to init the components
+Person 3: Then plot but
+Person 3: Wtf
+Danielle Knutson: i don’t even know which components and stuff
+Danielle Knutson: and how do i plot smh
+Danielle Knutson: i tried to copy paste what was in the plot tangent
+Danielle Knutson: but there isn’t a draw mode for points
+Person 3: I think u use the sphere
+Person 3: Plus because it’s running from a file
+Person 3: Visual studio isn’t even building a window at all
+Person 3: So I have to figure that out
+Person 3: bruh
+Person 3: @⁨~Person 6⁩
+Person 3: come back to life bro
+Person 3: yall wanna discord
+Danielle Knutson: I have no idea what to do bro
+Person 3: this pset lowkeupissing me off
+Danielle Knutson: Yea sure but i’m not going to be any help lmao
+Person 3: bro im using ChatGPT in a wierd way
+Person 3: look at the4 prompt
+Danielle Knutson: the what
+Person 3: I want you to help me understand the TODO messages in the following files WITHOUT you telling me what to do. You are esssentially functioning in place of a TA, that is allowed to help you, provided guidance about what process to take while thinking and can only yes or no verify if what you are doing is correct (also cannot give you the answer). Here are the files, be ready for my questions next
+Person 3: ITS NOT HELPING 😭
+Danielle Knutson: lmao just like a ta
+Danielle Knutson: maybe say you can’t give concepts but help with gloo and c++ stuff
+Danielle Knutson: since they’re technically not testing us on that
+Person 3: true
+Person 3: I mean the concepts are sound
+Person 3: so its JUST the gloo stuff
+Person 3: i think i have an idea tho
+Person 3: but i need the visual studio thing to work before then
+Person 3: howd you run the tangent line
+Danielle Knutson: i didn’t run it just copied the code
+Danielle Knutson: but idk what to do from there
+Person 3: my process is I want to run it
+Person 3: then see what each thing does
+‎[9/18/25, 8:32:52 PM] Danielle Knutson: ‎image omitted
+Danielle Knutson: poor guy
+Person 3: 😭
+Danielle Knutson: i forgot that vectors exist bro
+Person 3: wild
+Danielle Knutson: so for plotting the control points it looks like you go through make a unique pointer and do stuff
+Danielle Knutson: idek bro
+Danielle Knutson: well i think i might know
+Danielle Knutson: but not really
+Person 3: thats still very vague
+Danielle Knutson: yea
+Danielle Knutson: cooked = me
+Person 3: I feel like its going to be a process of trial and error
+Person 3: which is why I need it to run but its not running
+Danielle Knutson: for real
+Person 2: Nah I had Lab hours at 7
+Person 2: Y'all sound like you had a field day
+Person 3: it really was
+Person 3: though I am making conceptual progress
+Person 3: Im starting the realize the "concepts" taught in class are the easy part
+Person 3: theyre 100% teaching this course wrong
+Person 3: chat gpt is my goat TA
+Person 3: (chaptgpt is doing absolutely nothing)
+Person 3: GUYS
+Person 3: @⁨Danielle Knutson⁩ @⁨~Person 6⁩
+‎[9/18/25, 11:16:16 PM] Person 3: ‎image omitted
+Person 3: WE HAVE 1 POINT
+Person 3: LETS GOOOOOO
+Person 3: 4 hrs total for 1 point
+Person 3: guys how do we implement: This node should plot a single curve as well as its control points and a tangent line at at least one point
+on the curve. We provide a starter implementation for a PlotTangentLine function. Currently, this
+function just plots a single fixed line on the canvas. You will want to change it to plot a tangent line for
+the particular curve instance. The code shows how you might go about rendering a line on the screen.
+In particular, note that positions is a vector of points, and indices indexes into to positions—if
+indices is [0, 1], this corresponds to a line segment between the first two points.
+In order to display the curve, you will need to approximate it by subdividing it into line segments.
+The constant N SUBDIV corresponds to the number of line segments that you should use to render a
+single curve. Similar to how you display the tangent line, your indices can correspond to a polyline,
+e.g., [0, 1, 1, 2, 2, 3, 3, 4]
+Person 3: that part of the HW
+Danielle Knutson: wait bro this is so great
+Danielle Knutson: how did you do it???
+Person 3: I think I understand how the conceptual process works
+Person 3: I basically copied what was in the tangent line sample
+Person 3: And split it up according to trial and error
+Person 3: So it looks like in the initial
+Person 3: For a point
+Person 3: You make a scene node
+Danielle Knutson: wait yea that makes sense so you didn’t make it a vertex object
+Danielle Knutson: or you did that too?
+Person 3: Then assign a shader, material and rendering component for that scene node
+Danielle Knutson: i tried making it a vertex object but it no work
+Person 3: I defined a vertex object as well
+Danielle Knutson: damn okay
+Person 3: I’m still trying to figure that part out (getting the vertex object to put the dot at the points)
+Person 3: But the sphere is rendered at the center of the scene node
+Person 3: Which makes sense
+Danielle Knutson: yea but it’s good to know the thing we are actually rendering is a scene node
+Person 3: Yeah so my thought
+Person 3: Is that when update the position of the vertex object and the indices of the vertex object in the plot function
+Person 3: We gotta make it do that it affects it
+Danielle Knutson: is there a c++ way to have it so the pointer that points to the position of the vertex also points to the position of the sphere
+Person 3: Well I was thinking we just have some sort of pointer that moves the node’s transform position to the position of the vertex object
+Person 3: So it’s two separate objefts
+Person 3: One is functional as a vertex object
+Person 3: The other is the visualization
+Danielle Knutson: yea that makes sense
+Danielle Knutson: i guess i meant can we have both of their positions pointing to the same place
+Danielle Knutson: like they are 2 separate objects but we have their locations somehow linked
+Danielle Knutson: like make them aliases somehow
+Person 3: Yeah
+Person 3: Idk if that’s like too much to render but we will see
+Person 3: @⁨~Person 6⁩ @⁨Danielle Knutson⁩ when do yall wanna meet to get on with this bitch ass pset
+Person 3: It’s making me so mad
+Person 3: And I don’t get mad
+Person 3: Like ever
+Danielle Knutson: bruh i know
+Danielle Knutson: but i literally don’t know if i can do anything
+Danielle Knutson: i mean you were helping me with the 0 homework bro
+Danielle Knutson: and that was hard af for me
+Danielle Knutson: but i should be able to meet on sunday
+Danielle Knutson: because tomorrow i plan to finish my hass and deep learning
+Danielle Knutson: then it’ll be all computer graphics until thursday
+Person 3: I’m down for Sunday
+Person 3: Me and my TA are gonna sit down for hours tmrw working on it so if I have any developments I’ll let you know
+Person 2: Would rather work Monday but I might just join y'all and see where you're at
+Person 3: I think thats the play for the control points still
+Person 3: because we have the positions since it parses the file
+Person 3: so that means its quite literally boils down to putting the spheres at those positions
+Person 3: meaning there's no need for A VERTEX OBJECT FOR A CONTROL POINT
+Person 3: whoops sorry caps
+Person 3: the only place a vertex object is needed then is the curve
+Person 3: HOLY SHIT
+Person 3: this might work
+Person 3: GUYS OH MY GOSH
+‎[9/20/25, 8:12:52 PM] Person 3: ‎image omitted
+Person 3: I STARTED THIS SHIT AT 12
+Person 3: WE GOT A CURVE BOIIIIIIIIIIS
+Danielle Knutson: no wayyyyy
+Danielle Knutson: bro what
+Person 3: 8 fucking hours
+Person 3: reading
+Person 3: TA'ing
+Danielle Knutson: you have to teach me your ways
+Person 3: I catually recorded my thinking process
+Person 3: ill tell u everything
+Person 3: like i had chat gpt go through all of the gloo library and teach me a crash course
+Person 3: and i learnt about the triads
+Person 3: andi figured out what they were saying in 3
+Danielle Knutson: wait what i couldn’t find any resources on flop bro
+Danielle Knutson: send it over
+Person 3: No as in
+Person 3: i fed it
+Person 3: the gloo library from the zip file
+Danielle Knutson: omggg
+Danielle Knutson: that’s so smart
+Person 3: and had it teach me yeah
+Person 3: I cant take credit for that strat tho
+Person 3: my firend at Princeton told me to do it
+Person 3: do i feel confident enough to actually code this from scratch
+Person 3: HELL NO
+Person 3: but it works
+Person 3: btw u weant me ot explain here or wait till tmrw
+Person 3: im on a high rn
+Person 3: feels like drugs
+Person 3: (dont deport me)
+Danielle Knutson: i’m messaging trump right now
+Person 3: no bro
+Danielle Knutson: no not right now :( i have a 3 page paper to write
+Person 3: he already took away my visa options for work
+Person 3: L
+Danielle Knutson: Person 3
+Danielle Knutson: 📸
+Person 3: lowkey tho that h1-b shit screwed me so hard for this summer
+Person 3: i might have to do a misti instead
+Danielle Knutson: that would be fun
+Danielle Knutson: misti is cool
+Person 3: yeah but
+Person 3: the cs ultra dream of working at apple or gogole is so joever
+Person 3: yall are fine
+Person 3: yall are citizens
+Person 3: 😭
+Danielle Knutson: 🇺🇸
+Danielle Knutson: 🦅
+Person 3: i hear those emojis
+Person 3: insane
+Person 3: OH MY GOD OH MY GOD
+‎[9/20/25, 8:37:44 PM] Person 3: ‎image omitted
+Person 3: AMERICA
+Person 3: ALL HAIL
+Danielle Knutson: dayummm
+Person 3: okay its like working
+Person 3: (ive done everything except for the tangent)
+Person 3: but idk if its right
+Person 3: we'll see
+Danielle Knutson: wait really
+Danielle Knutson: like the whole pset
+Person 3: hell no 😂
+Person 3: remember curves is only 55% of it
+Person 3: we gotta do the surfaces for the remaining 40%
+Danielle Knutson: but this is so cool
+Danielle Knutson: i’m glad you got it now
+Danielle Knutson: can it generate me a cheat sheet lnao
+Danielle Knutson: lmao
+Person 3: oh wait...theres another piece
+Person 3: i  still have to wrk out the logic for poly curves
+Person 3: shit
+Person 3: idek where to start
+Person 3: Lmao its actually easier than u think
+Person 3: i been lowkey working on this for like 10 hrs tho
+Person 3: so much other shit to do
+Danielle Knutson: but the grind pays off
+Person 3: lol I guess
+Person 3: bro im lowkey cooking myuself rn
+‎[9/20/25, 11:57:14 PM] Person 3: ‎image omitted
+Person 3: im going to bed bro this is crazy
+Person 3: Yo what time yall wanna grind
+Person 3: As a squad
+Person 3: Pun intended
+Danielle Knutson: you free after dinner?
+Person 3: Ye
+Person 3: @⁨~Person 6⁩ wbu
+Danielle Knutson: where are we meeting
+Danielle Knutson: or should we just do discord
+Person 3: I mean like discords lowkey convenient stillz
+Person 3: It’s arguably easier
+Danielle Knutson: I agree honestly
+Danielle Knutson: I’m free whenever
+Person 3: hop on then bro
+Person 3: https://www.instagram.com/p/DO5DwmSDDKo/?img_index=1&igsh=cTc2ZDFiczliMXRt
+Person 3: He won the election @⁨Danielle Knutson⁩
+Person 2: Bro's DEDICATED
+Person 2: Did y'all make good progress?
+Person 3: Depends ‎<This message was edited>
+Danielle Knutson: bro what
+Danielle Knutson: he won
+Danielle Knutson: no way
+Person 2: This guy an influencer?
+Person 2: Btw are y'all gonna be working on 6.4400 today or tmrw?
+Person 2: I have a bunch of time tomorrow and some time today if anyone's working too 👀
+
+
+Danielle style augmentation examples
+[10/3/25, 1:00:00 PM] Danielle Knutson: i good
+[10/3/25, 1:00:05 PM] Danielle Knutson: how you
+[10/3/25, 1:00:10 PM] Danielle Knutson: i hungry
+[10/3/25, 1:00:15 PM] Danielle Knutson: i tired
+[10/3/25, 1:00:20 PM] Danielle Knutson: you good?
+[10/1/25, 12:00:00 PM] Danielle Knutson: heyy
+[10/1/25, 12:00:05 PM] Danielle Knutson: hiiii
+[10/1/25, 12:00:05 PM] Danielle Knutson: whatever bozo
+[10/1/25, 12:00:05 PM] Danielle Knutson: bozo
+[10/1/25, 12:00:05 PM] Danielle Knutson: you a butt
+[10/1/25, 12:00:05 PM] Danielle Knutson: you're a butt
+[10/1/25, 12:00:05 PM] Danielle Knutson: you're a bigger butt
+[10/1/25, 12:00:10 PM] Danielle Knutson: wait hi lol
+[10/1/25, 12:00:15 PM] Danielle Knutson: bro what
+[10/1/25, 12:00:20 PM] Danielle Knutson: bruh where are you
+[10/1/25, 12:00:25 PM] Danielle Knutson: yo what’s up
+[10/1/25, 12:00:30 PM] Danielle Knutson: no way bro
+[10/1/25, 12:00:35 PM] Danielle Knutson: be so serious
+[10/1/25, 12:00:40 PM] Danielle Knutson: dang okayyy
+[10/1/25, 12:00:45 PM] Danielle Knutson: that is a crazy take
+[10/1/25, 12:00:50 PM] Danielle Knutson: you’re actually ridiculous
+[10/1/25, 12:00:50 PM] Danielle Knutson: omg what is the tea?
+[10/1/25, 12:00:50 PM] Danielle Knutson: omg youre so funny
+[10/1/25, 12:00:55 PM] Danielle Knutson: nah that’s insane
+[10/1/25, 12:01:00 PM] Danielle Knutson: dayummm
+[10/1/25, 12:01:05 PM] Danielle Knutson: wild behavior honestly
+[10/1/25, 12:01:10 PM] Danielle Knutson: bro relax
+[10/1/25, 12:01:15 PM] Danielle Knutson: okay bozo
+[10/1/25, 12:01:20 PM] Danielle Knutson: you wish bro
+[10/1/25, 12:01:25 PM] Danielle Knutson: no because that’s crazy
+[10/1/25, 12:01:30 PM] Danielle Knutson: i’m not letting you get that off
+[10/1/25, 12:01:35 PM] Danielle Knutson: no for real you got this bro
+[10/1/25, 12:01:40 PM] Danielle Knutson: wait no you’re actually fine
+[10/1/25, 12:01:45 PM] Danielle Knutson: you’re not cooked yet
+[10/1/25, 12:01:50 PM] Danielle Knutson: i believe in you
+[10/1/25, 12:01:55 PM] Danielle Knutson: lowkey you can do it
+[10/1/25, 12:02:00 PM] Danielle Knutson: bro you’re being too hard on yourself
+[10/1/25, 12:02:05 PM] Danielle Knutson: c’s do not mean you’re a fraud
+[10/1/25, 12:02:10 PM] Danielle Knutson: we got this dawg
+[10/1/25, 12:02:15 PM] Danielle Knutson: lmk if you want me to look at it
+[10/1/25, 12:02:20 PM] Danielle Knutson: wait send what you have
+[10/1/25, 12:02:25 PM] Danielle Knutson: i have no idea what to do bro
+[10/1/25, 12:02:30 PM] Danielle Knutson: this feels like a foreign language
+[10/1/25, 12:02:35 PM] Danielle Knutson: cooked = me
+[10/1/25, 12:02:40 PM] Danielle Knutson: okay cool thank you
+[10/1/25, 12:02:45 PM] Danielle Knutson: wait what does that mean
+[10/1/25, 12:02:50 PM] Danielle Knutson: i thought i understood it and then realized i was solving the wrong problem
+[10/1/25, 12:02:55 PM] Danielle Knutson: yea wait the main thing is just figuring out what the subproblem is first
+[10/1/25, 12:03:00 PM] Danielle Knutson: don’t try to visualize it yet just think about the recurrence
+[10/1/25, 12:03:05 PM] Danielle Knutson: i think you want to take the max there and then the min outside
+[10/1/25, 12:03:10 PM] Danielle Knutson: it’s kinda like egg drop if that helps
+[10/1/25, 12:03:15 PM] Danielle Knutson: first just tell me what the subproblem is
+[10/1/25, 12:03:20 PM] Danielle Knutson: that might help you understand it better
+[10/1/25, 12:03:25 PM] Danielle Knutson: look at the piazza post first and then if it still doesn’t make sense i can help more
+[10/1/25, 12:03:30 PM] Danielle Knutson: you guys free later
+[10/1/25, 12:03:35 PM] Danielle Knutson: i’m free after 6ish
+[10/1/25, 12:03:40 PM] Danielle Knutson: where are we meeting
+[10/1/25, 12:03:45 PM] Danielle Knutson: we can do discord honestly
+[10/1/25, 12:03:50 PM] Danielle Knutson: i’m down
+[10/1/25, 12:03:55 PM] Danielle Knutson: bet
+[10/1/25, 12:04:00 PM] Danielle Knutson: hop on discord
+[10/1/25, 12:04:05 PM] Danielle Knutson: brush your teeth
+[10/1/25, 12:04:10 PM] Danielle Knutson: oops autocorrect
+[10/1/25, 12:04:15 PM] Danielle Knutson: big mac
+[10/1/25, 12:04:20 PM] Danielle Knutson: celebrity sighting
+[10/1/25, 12:04:25 PM] Danielle Knutson: i’m weak
+[10/1/25, 12:04:30 PM] Danielle Knutson: no torture bro
+[10/1/25, 12:04:35 PM] Danielle Knutson: i hear those emojis

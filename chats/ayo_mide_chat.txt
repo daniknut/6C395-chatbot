@@ -1,0 +1,1106 @@
+[1/1/25, 12:00:00 PM] Danielle Knutson: hiii
+[1/1/25, 12:00:05 PM] Danielle Knutson: heyy
+[1/1/25, 12:00:10 PM] Danielle Knutson: wait hi
+[1/1/25, 12:00:15 PM] Danielle Knutson: heyyy whats up
+[1/1/25, 12:00:20 PM] Danielle Knutson: hi lol
+[1/1/25, 12:00:20 PM] Danielle Knutson: whats up dawg?
+[1/1/25, 12:00:20 PM] Danielle Knutson: whats up my boy
+[1/1/25, 12:00:20 PM] Danielle Knutson: whats up dawg
+Person 1: Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them.
+Person 1: You created group “ayo(Person 9)”
+Person 2: ~ Person 9 joined using your invite
+[9/21/24, 6:36:01 PM] ~ Person 9: image omitted
+[9/21/24, 6:36:06 PM] ~ Person 9:
+Person 3: Did you guys finish or are you still working?
+Person 2: Come join us Person 8
+[9/21/24, 6:54:26 PM] ~ Person 9:
+[9/21/24, 6:54:56 PM] ~ Person 9:
+[9/21/24, 7:12:23 PM] Danielle Knutson:
+[9/21/24, 7:43:03 PM] Danielle Knutson:
+[9/21/24, 7:54:09 PM] Danielle Knutson:
+Person 2: 😨
+[9/21/24, 8:32:46 PM] Danielle Knutson:
+[9/21/24, 8:37:24 PM] Danielle Knutson: Screenshot 2024-09-21 at 20.36.28.png
+[9/21/24, 9:25:11 PM] Person 4:
+Person 2: What time did y'all end? 👀
+Danielle Knutson: like 9:30 ish
+Person 3: When Person 7 sent that image so like 9:30
+Person 2: Okok my thing lasted super long 😭
+Person 2: How far did y'all get?
+Danielle Knutson: we finished
+Person 2: 😨
+Person 2: Is it jover chat?
+Danielle Knutson: definitely look at what Person 7 did for 3 or go to office hours if you don’t want to look at it because it’s not straightforward at all
+Person 2: Yo okay 😭
+Person 2: I just see text bro 😃😭
+Person 4: LOL they closed the solutions page 😭
+Danielle Knutson: lmaooo bro i better not see an announcement about it
+Person 2: There's no way they don't talk about it tmrw
+Person 3: Why does problem 1 say ligma everywhere
+Danielle Knutson: what’s ligma ?
+Danielle Knutson: 🫣
+Person 3: …
+Person 3: Im gonna assume all the ligmas are probably lemmas
+[9/25/24, 8:30:47 AM] ~ Person 9:
+Person 2: They don't learn
+Person 2: 😔☝️🎉😔😔
+[9/25/24, 4:17:17 PM] Danielle Knutson: level 100 crook spotted in the wild
+Person 2: OI
+Person 2: WHERE'D YOU GO
+Danielle Knutson: are any of you guys free tomorrow to go to office hours for 18.c06
+Danielle Knutson: not Person 9 lol
+Person 4: What time is office hours?
+Person 4: I also have not started anything other than question 1 and may need help
+Person 4: 😭
+Danielle Knutson: are you free tomorrow to meet
+Danielle Knutson: i know there’s one 5-7
+Person 4: I can’t do 5-7
+Person 4: I’m free after 7:30 tho
+Person 2: 😡🤬🤬😠 join 18.06
+Person 2: Tbf I don't think people can anymore 😃
+Person 4: 😂
+Person 4: When’s add date?
+Danielle Knutson: bruh i wish i did 18.06
+Person 3: Real kinda
+Person 3: How are your psets Person 9?
+Danielle Knutson: but i did 1, 2, and 4 but don’t know how to do 3 and can’t go to office hours :(
+Person 4: You think we can figure it out tomorrow
+Person 4: ?
+Person 3: I can ask megan also
+Danielle Knutson: yea if you could ask megan that would be great
+Danielle Knutson: also when are we starting 6.1200
+Danielle Knutson: maybe
+Person 3: Although in general she seems to be in the same boat as us, at least she was last week
+Person 4: Should Saturday be fine?
+Person 3: Yeah Saturday’s good with me
+Danielle Knutson: you guys aren’t free earlier at all?
+Person 4: I genuinely need to take time to review all of this week and last week. So I might do that tomorrow in the day
+Person 3: I’m mostly available Friday evening
+Person 4: Saturday morning can work if I switch things around. Friday evening can also work
+Person 3: But I’m available all Saturday
+Person 4: Also what time tomorrow btw?
+Danielle Knutson: what about both ? 😱👀
+Danielle Knutson: after 7 ish
+Danielle Knutson: tomorrow
+Person 4: Bet
+Person 4: I doubt we’d need both
+Person 4: But I can’t do both
+Person 4: Unfortunately
+Danielle Knutson: i think i prefer friday so that i can maybe go to office hours saturday for 6.1200 and confirm my answers
+Person 3: That’s a good idea
+Person 4: Alr Friday it is then 👍
+Danielle Knutson: very cool
+Person 3: What exactly was your question on 3
+Danielle Knutson: i have no idea what a rank is
+Danielle Knutson: and just how to approach the problem in general
+Person 3: The rank is the number of independent column vectors
+Person 3: So 3
+Danielle Knutson: no i don’t think it’s three tho
+Danielle Knutson: if you put the matrix in julia and ask for rank it’ll say 2 i think
+Person 4: Lmao I have no idea how to calculate that stuff 💀💀💀
+Person 4: Yall are my lifeline 😭
+Danielle Knutson: no way bro i need a lifeline
+Person 3: Oh wait yeah I got it
+Danielle Knutson: is it 2
+Person 4: Gimme tomorrow to review this shit and I’ll be of some use tomorrow evening 😭
+Person 3: Yeah, the [0, 0, 0] vector basically doesnt count, and the second and third vectors are dependent on each other
+Person 3: So it just leaves the last 2, so the rank is 2
+Danielle Knutson: alright
+Danielle Knutson: and how do you get the basis of the column space 🤷‍♀️
+Danielle Knutson: no idea
+Person 3: The basis is the set of vectors that you can combine to get everything else in the column space, so its the last two vectors bc they’re independent
+Danielle Knutson: oh okay
+Danielle Knutson: so maybe we’ll be good
+Danielle Knutson: i feel like he makes things much more complicated then they need to be
+Danielle Knutson: i’m gonna start going to 18.06 lectures lol
+Person 4: He does 😭
+Person 4: The textbook/lecture notes is actually a crutch atp
+Person 2: Lightwork man
+Person 4: Person 9 😱
+Person 4: It’s bedtime bro 😭
+Person 2: Bro you're saying that as you're still up 💀
+Person 2: Let's both go to sleep
+Person 4: 🤫
+Person 4: Real
+Person 2: Ain't no way 😂
+Danielle Knutson: has anyone done 3 yet for the pset
+Person 4: 😂
+Person 4: Lmao nope
+Person 4: Have to get through 2 first
+Person 4: What time will u be at Simmons?
+Danielle Knutson: 7 ish
+Danielle Knutson: i decided to go to office hours and prolong my hunger
+Person 4: Ah. Ima be like 30 mins after 7
+Person 4: 👀
+Person 4: Hey can someone tap me in in approximately 5 minutes please? 🙏
+Person 3: Yeah just lmk once you’re here
+Person 4: Yeah I’m here
+Person 3: Coming
+Person 3: Dani idk where you are, but we’re in 4c
+Danielle Knutson: can someone take notes for me in 18.c06 <This message was edited>
+Person 4: Aight
+Danielle Knutson: when are you guys free to start working on 6.1200
+Person 4: Bout 7
+Danielle Knutson: damn that’s late
+Person 4: Yeah…
+Person 4: Classes don’t end till four and I got some stuff after
+Person 4: Again it shouldn’t take long tho
+[9/27/24, 4:25:13 PM] Danielle Knutson:
+Person 2: I just finished classes but I think I'm gonna sleep for 2 hours
+Danielle Knutson: is seven good?
+Person 2: If y'all are good for it
+Person 2: 😨
+Danielle Knutson: 6.101 bro
+Danielle Knutson: but yea i think that should be fine
+Person 2: Oh were you able to finish?
+Person 2: Wait I vaguely remember doing this
+Danielle Knutson: it’s the new reading lol
+Person 2: I can't remember what the solution was tho
+Person 2: Ohhh okok
+Person 2: Nah doing the reading as it comes out 😨 <This message was edited>
+Person 2: Doing the reading as it's due in 3 minutes 😏📈
+Danielle Knutson: i do not like that they don’t put the test cases
+Danielle Knutson: so i have no idea what’s going wrong
+Person 4: Wait is it bad I don’t remember this? 😭😭😭
+Person 4: Ima reach like 7:30
+Person 2: Y'all good to start?
+Danielle Knutson: bro i just can not read
+Danielle Knutson: i can also get there at 7:30
+Person 2: Okok no problem!
+Person 4: @~Person 9 I’ll be there in like 3 mins
+Person 4: Can you tap me in pls?
+Person 4: Person 9 wya
+Danielle Knutson: oh u don’t need tap
+Danielle Knutson: just say you’re going to dinner
+Danielle Knutson: i’ll be right there
+Person 4: I just did that lmao
+Person 4: Idk which lounge tho
+Danielle Knutson: try 4c
+Person 4: 4c nope
+Person 4: I’m coming back down I don’t wanna get lost in this place lmao
+Danielle Knutson: lol
+Person 4: I’ll wait 😂
+Person 2: Ok I'm omw now
+Person 2: Had to empty the bowels 😔
+Danielle Knutson: 👎
+Person 2: Did you just downvote me 😃
+Person 3: 7b is open
+Person 2: Person 7 where'd you go?
+Person 3: Anyone coming?
+Person 4: We're in 8b
+Person 4: 💀
+Person 2: I'm waiting in the lobby for Person 7
+Person 2: BRUV
+Person 3: LLLLL
+Person 4: Person 9 😭
+Person 3: 7b is way cooler
+Person 4: Im sorry
+Person 3: You should come here instead
+Person 4: We apready started
+[9/27/24, 7:38:49 PM] Person 4:
+[9/27/24, 9:40:39 PM] Person 4:
+[9/27/24, 9:40:40 PM] Person 4:
+[9/27/24, 11:06:26 PM] Person 4:
+[9/27/24, 11:17:04 PM] Person 4:
+[9/27/24, 11:25:31 PM] Person 4:
+Person 2: Dani's in so many of the proofs
+[9/28/24, 10:34:32 AM] Person 3:
+Person 3: Let’s go bro
+[9/28/24, 11:20:45 AM] ~ Person 9:
+Danielle Knutson: for 1 for the 4 row are we sure it’s theta
+Person 4: That’s a good question lmao 😂
+Person 4: Are we?
+Person 4: It took them 3 whole weeks 😂😭😭
+Person 2: Are we sure of any of them? 😃
+Danielle Knutson: bruh i’m not sure about 4 and b
+Danielle Knutson: also i just realized we didn’t really finish c
+Danielle Knutson: of 3
+Danielle Knutson: we needed to find c
+Person 2: Did we not find c = 2√2?
+Danielle Knutson: i don’t know if we supposed too find it through the integral test tho
+Person 2: Ohh
+Person 2: We can take a look at it when we meet up
+Person 2: Imma work on it now since I gotta copy stuff down
+Danielle Knutson: yea when are we meeting up
+Person 4: 2:30?
+Danielle Knutson: sorry are u guys free later like 4 maybe or you guys could meet without me and just tell me if you had a break through
+Person 4: 4 is actually more ideal than 2:30 lol
+Person 2: Wait I'm not free at 4 😃
+Person 4: Wait so Person 9 you wanna meet at 2:30 and we can try make a breakthrough then?
+Person 4: It’s for question 2 btw ‎<This message was edited>
+Person 2: Yeah I'm down for that
+Person 4: Alr. I’ll text you when  I’m at Simmons
+Person 2: No problem
+Person 4: This time I might need a tap in tho 👀
+Person 3: I’ll be there too
+Person 2: I'll be downstairs 😂
+Person 2: Y'all I agree 1 seems a little wrong ‎<This message was edited>
+Person 2: I think we should go through our answers/check with OH
+Person 2: honestly idrk
+Person 4: Honestly I say we tackle 2 first and then refine after
+Person 4: So at least we know all questions have been attempted
+Person 2: Sounds good sounds good
+Person 4: Yo I’m coming a lil early
+Person 4: Beg a tap in in like 2 mins?
+Person 2: Alright I'm omw
+Danielle Knutson: yea u guys should go to office hours
+Person 3: Which lounge?
+Person 4: 8b
+‎[9/28/24, 2:51:38 PM] Person 4:
+‎[9/28/24, 3:02:27 PM] Person 4:
+Person 4: Ain’t no way we finished in 30 mins
+Danielle Knutson: did u guys join office hours
+Person 3: Yeah
+Danielle Knutson: did u get to confirm some answers
+Danielle Knutson: is there any way someone could explain in words what is happening
+Danielle Knutson: also did u decide on 1
+Person 3: Nah we only asked about 2
+Danielle Knutson: oh damn
+Danielle Knutson: por que
+Danielle Knutson: are u guys still there or did u disband
+Person 3: Disbanded
+Person 2: I'm still writing it all down in 8b
+Person 4: Sorry I had some errands and other work stuff
+Danielle Knutson: oh okay
+Danielle Knutson: all good
+‎[9/28/24, 3:30:53 PM] ~ Person 9: Slight correction:
+Person 2: We still needa go through 1 and 3c tho
+Danielle Knutson: when are you free
+Person 2: Ideally until 4, but if y'all are free at 4 I'll be here
+Danielle Knutson: okay for how long
+Person 2: As long as we need
+Danielle Knutson: i can ask in office hours about 1 and 3c
+Person 2: When next are we meeting?
+Person 2: f(n) and f(1) might be swapped for 3c too
+Person 2: We wrote I + f(n) ≤ S ≤ I + f(1)
+‎[9/28/24, 4:07:48 PM] ~ Person 9: But I have this in my notes
+Danielle Knutson: that could be right
+Danielle Knutson: the tas aren’t really helping me
+Danielle Knutson: did they help u at all
+Person 2: They helped with 2, but I didn't ask for otheres
+Person 2: others
+Danielle Knutson: for 2 did they tell you to write like proof by something
+Person 2: Nah not particularly
+‎[9/28/24, 4:51:23 PM] Person 3:
+Person 3: Let’s go
+Person 2: 😤☝️
+Danielle Knutson: i think i’m going to go to office hours tomorrow so they can’t deny me
+Danielle Knutson: because 1 is making me doubt myself
+‎[9/28/24, 8:25:41 PM] Danielle Knutson: i’m stuck on this for 3c
+Person 2: Are you sure you divided by the right value?
+Danielle Knutson: no
+Danielle Knutson: did i
+Danielle Knutson: wait
+Person 2: Did you eventually figure it out?
+Danielle Knutson: no sadly
+Person 2: Y'ALL
+Person 2: WHEN ARE WE MEETING?
+Danielle Knutson: bruh the c is just the 3/5
+Danielle Knutson: 3/4
+Danielle Knutson: for 1b she said there is something in the lecture about approximating ln(n!)
+Danielle Knutson: i think i did it i cm meet after dinner to discuss or explain
+Danielle Knutson: can*
+Danielle Knutson: 3ab is no longer free
+Danielle Knutson: i will be in old late night
+Person 2: I'll be down in 5 mins
+Person 4: I can’t make it 🥲
+Danielle Knutson: okay just how we did 1b is wrong ‎<This message was edited>
+Danielle Knutson: and 2b is better as a proof by contradiction but they said it could be the other way if you frame it correctly
+Danielle Knutson: 3c is basically right but you need to prove it because of asymptotic equivalence
+Danielle Knutson: where c =3/4
+Danielle Knutson: would any of you guys be interested in studying together for the midterm
+Person 2: Yes!
+Person 2: Depends on when though
+Person 4: Oh yeah fs
+Danielle Knutson: do you think the weekend would be better or are you guys free earlier
+Danielle Knutson: it would be just to make sure that we know/have notes everything of we’re supposed to know
+Person 2: Yeah I'm not here over the weekend 😔
+Person 2: But y'all should meet if you can
+Danielle Knutson: when art thou free
+Person 4: Friday or Saturday would be good but we could also do Tuesday before
+Person 2: Either before or after the weekend
+Person 2: Including before or after Friday, Saturday and Sunday morning"
+Person 4: ok could you explain how to do 1b the right way then pls 🙏
+Person 2: Y'ALL
+Person 2: What did we eventually get for 1b?
+Person 2: I still got f € w(g)
+Danielle Knutson: what do you mean
+Person 2: Ignore the euro sign
+Danielle Knutson: i think it’s the same jk g
+Danielle Knutson: thing
+Person 2: Like final answer
+Danielle Knutson: not jk
+Person 2: Okok
+Danielle Knutson: wait
+Danielle Knutson: little o
+Person 2: Why ☹️
+Danielle Knutson: wait which one is bigger
+Person 2: I got that the limit goes to infinity
+Danielle Knutson: i did too
+Person 2: So w(g)
+Person 2: Wait
+Danielle Knutson: wait
+Danielle Knutson: bruh
+Danielle Knutson: omg
+Person 2: Yeah I think infinity is w(g)
+Danielle Knutson: it is w
+Danielle Knutson: how did i get the limit but use the chart wrong
+Person 2: Okok
+Person 2: This boutta be us on the exam 😭
+Person 4: Lmao cuz I was literally about to ask
+Person 2: Nah we all tripped
+Danielle Knutson: for real
+Danielle Knutson: smh
+‎[10/1/24, 3:40:48 PM] Person 4:
+Person 5: ‎~ Person 9 added ~ Person 10 Akin
+Person 4: Lmao Yall not coming to class?
+Person 3: I personally am sick
+Person 3: So I have good reason
+Person 4: Oh no. Get well soon!
+Person 3: Thank you!
+Person 2: Person 10's here now 🫢
+‎[10/3/24, 4:02:19 PM] ~ Person 9: 😱
+Danielle Knutson: bruh what in the sasquatch is that
+Person 5: 🤝🏾
+Person 3: What’s up
+Person 5: Yo Person 8!
+Danielle Knutson: hi guys we were thinking for the people not going on the cru retreat to start the pset tonight
+Danielle Knutson: what time are you guys free
+Person 5: I’m busy till 5 and have a dinner from 6:30-7:30, so if u guys have to start without me that’s ok
+Person 4: Omg it’s Person 10
+Person 4: 7 is good
+Person 5: Mathew!
+Danielle Knutson: alright i’ll be at simmons at 7
+Person 5: My dinner was cancelled lol, I’ll be there too
+Person 5: Where do u guys meet?
+Person 3: Imma be a little late, the writers block is hitting me hard on this paper, I’ve only got 2/3 pages
+Person 3: Usually 8b, sometimes 4c
+Person 4: Normally 8b
+Person 4: 💪
+Person 4: I’ll also be like 15 mins late
+Danielle Knutson: alright let me know when you’re here i’m eating dinner at simmons rn
+Person 5: Wait Person 8 how sick are u
+Person 3: Like a cold
+Person 4: I’m here
+Person 4: Going to 8b
+Person 4: Wait no Dani come here
+Person 4: This elevator is broken
+Danielle Knutson: bruh
+Danielle Knutson: go to the elevator by the entrance i’m on floor 6 rn
+Danielle Knutson: i can come down and get you
+Person 4: Bet
+‎[10/4/24, 7:59:03 PM] Danielle Knutson:
+Person 3: Which lounge?
+Person 4: Wanna join on zoom?
+Person 3: Yeah that’s alright
+Person 3: I can FaceTime Dani
+Person 5: Danny can u send ur stuff
+Person 4: Oh btw we meeting at 2 right?
+‎[10/5/24, 1:27:09 PM] Danielle Knutson:
+Person 5: I won’t be able to make it, but I have 1 and am close on 2
+Person 4: Alr bet
+Person 4: How’d you do 1?
+Person 5: Imma just say trust, I can say over text
+Person 5: Explain
+Person 4: What? 😂
+Person 4: I mean tho if y’all get the answers separately
+Person 4: 👀👀👀
+Person 4: Cuz that means I can do some work
+Person 3: If we’ve got 1, 2, and 3, this very well may be another quick Saturday oh
+Person 3: 8b is taken
+Person 4: Aight when you find a lounge tell me
+Person 4: ill be there by 3 latest latest
+Danielle Knutson: are we meeting ?
+Person 4: i mean if u want. Im doing work but ill break if u guys wanna finish
+Person 5: What I’m saying is focus on doing 4, not 1
+Person 5: Trust
+Danielle Knutson: u got one?
+Danielle Knutson: slide it lol
+Person 3: 4c
+Person 3: Isn’t that what we said yesterday?
+Person 4: When y'all get there just tell me and ill be there in like 5 mins
+Danielle Knutson: how far did u guys get with 4?
+Danielle Knutson: i went to office hours and was able to get it done
+Person 4: 0%
+Danielle Knutson: i can send what i got when i get back home
+Person 4: Thank you 🙏
+‎[10/6/24, 1:25:56 PM] Danielle Knutson: Problem Set 5.pdf • ‎7 pages
+Danielle Knutson: sorry about that
+Danielle Knutson: i havent really started two and havent finished 1
+Danielle Knutson: but i thought it would be easier just to send the pdf
+Danielle Knutson: and sorry about the handwriting
+Person 5: Truth is I have access to the answers from last year and number 1 is almost exactly the same, but I still don’t get it💀💀, and don’t want to implicate u guys, so imma head to office hours in 30 minutes to finish number 1 and then I’ll send what I get
+Danielle Knutson: bruhhh lol thank you tho
+Danielle Knutson: do u know if it has two?
+Danielle Knutson: or if you have two?
+‎[10/6/24, 1:30:10 PM] ~ Person 10 Akin: And this might be helpful for 2
+Person 5: I was working with upperclassmen, but didn’t finish
+Danielle Knutson: oh ok
+Person 5: I’m confident I’ll finish 1 and 2 in office hours though
+Person 5: Latest I’ll send stuff is 5:00
+Danielle Knutson: alright thank you so much !!!
+Danielle Knutson: i swear we’re usually more on top of things lol
+Person 5: No worries at all, I’m still super grateful to work with u guys
+Danielle Knutson: also let me know if u need me to go to office hours
+Danielle Knutson: i’m on campus rn so i can go
+Person 2: Am I cooked?
+Person 5: It’s super busy today, not getting much attention
+Person 5: Maybe ngl😭
+Danielle Knutson: i’m okay with being implicated
+‎[10/6/24, 5:18:46 PM] ~ Person 10 Akin:
+‎[10/6/24, 5:18:54 PM] ~ Person 10 Akin:
+‎[10/6/24, 5:18:59 PM] ~ Person 10 Akin:
+‎[10/6/24, 5:19:03 PM] ~ Person 10 Akin:
+Person 5: 🫡
+Person 5: 1c I didn’t get checked, and I only got part of 1b checked
+Person 5: We also need to figure out collaboration statements
+Danielle Knutson: alright thank you
+Person 6: ‎Person 3 added ~ Person 11 Thoduguli
+Danielle Knutson: what did u mean about the collaboration statements ‎<This message was edited>
+Person 5: Like I don’t want to put too many people. I’m thinking of just putting Dani and Mathew
+Person 3: I wasn’t literally there on friday, but I was there via facetime
+Person 5: We could also just do 3 and 3
+Person 5: Bc there’s 6 in this chat
+Person 5: Collab statements should line up, so just making sure we’re putting each other for everything @⁨Danielle Knutson⁩ and @⁨Person 4⁩
+Danielle Knutson: 🫡
+Person 4: Yeah 👍
+Person 4: @⁨~Person 10 Akin⁩ I don’t get how you did 1b
+Person 4: I also don’t understand how you did 2A
+Person 5: 1b, I say that it terminates when y’=0 which happens when the remainder is 0, meaning they divide each other. Then I use p1 and p2 to show that gcd = x = sa +tb as we want to prove. Only my middle step is iffy
+
+2a, I originally didn’t think this was enough work, but when I showed the person in recitation she said u got it. Also, the main idea is that you can multiple our given equation by i on both sides to generalize it to any index
+Person 3: I’m just saying Person 9 and Person 11 both did it on their own, so I certainly didn’t collaborate with them, while I did with the rest of you
+Person 6: oh yeah none of you need to put me down as a collaborator - I submitted the pset on sunday and didn’t write anyone down
+Person 6: (i just wanted to be in the gc for future psets)
+Person 2: I think 3 collaborators is fine... I had 3 collaborators on my pset and they marked it fine
+Person 2: I agree tho if it were 5 it would be goofy
+Person 2: I worked with some other people so I'm probably gonna put them as collaborators this time around
+Person 3: Are you guys going to the review session / social tonight
+Danielle Knutson: yea
+Danielle Knutson: do we have recitation tomorrow?
+Person 4: doubt
+idrk
+‎[10/8/24, 10:21:22 PM] Person 3:
+Person 3: There is rec, but it’s not graded
+‎[10/9/24, 4:48:25 PM] Person 4: 6.1200 Reference Sheet.pdf • ‎2 pages
+‎[10/9/24, 5:52:13 PM] ~ Person 10 Akin: M1 Cheat Sheet 6.1200.pdf • ‎1 page
+Person 2: Y'all the exam is at 7:30pm right?
+Person 3: Yeah
+‎[10/9/24, 6:22:26 PM] Person 3: Note Oct 9, 2024 (2).pdf • ‎2 pages
+Person 2: Same here
+‎[10/9/24, 6:25:41 PM] ~ Person 9: 6.1200 Cheat Sheet.pdf • ‎1 page
+Person 4: Bro how’d you guys have so much space
+Person 5: Add prime numbers under 100
+Person 5: Yeah I filled mine up😭
+Person 2: Oh yo that makes sense
+Person 4: Guys like question rq
+Person 5: And didn’t even have space for examples
+‎[10/9/24, 6:27:05 PM] Danielle Knutson: Cheatsheet 6.1200.pdf • ‎1 page
+Person 4: That’s craaazy
+Person 5: Naw Dani u wrote crazy small at parts😭😭
+Danielle Knutson: it actually printed so well lol
+Danielle Knutson: i was scared
+Person 5: Ok nice
+Person 2: Yo I gotta go print mine out
+Person 4: Yo guys we’re all getting 95% MINIMUM
+Person 2: YAAAAAA
+Person 2: 🦅🦅
+Danielle Knutson: *knocking on wood*
+Person 5: 🫡🫡🫡
+Danielle Knutson: no jinxing
+Person 2: 🫢
+Danielle Knutson: are you guys in 26-100
+Person 3: Well I am
+Person 5: Me too
+Person 2: How do you check? 😃
+Person 2: Yeah I'm in 26-100 too
+Person 3: Rec 1-12 are there and rec 13-20 somewhere in bldg 50 I think ‎<This message was edited>
+‎[10/9/24, 7:06:20 PM] Person 3:
+‎[10/9/24, 10:37:46 PM] ~ Person 9: ‎video omitted
+Person 2: @⁨~Person 10 Akin⁩ How did the exam go?
+Person 5: “Silly to be sad about an exam”, that’s how it went😭😭
+Danielle Knutson: can someone send their notes from today please?
+‎[10/10/24, 11:02:02 PM] ~ Person 9: 6.120 Lectures.PDF • ‎8 pages
+Danielle Knutson: gracias amigo
+Person 2: The last part is incomplete
+Person 4: 🙏
+Danielle Knutson: for those of you that did 6.101 last semester how did you do the pentomin-oh problem
+Person 4: Yoooooooooooo
+Person 4: that question messed me up
+Person 4: still dont know how to do it
+Person 4: 😂
+Person 4: that was the 1 question i didn't get lmao
+Person 3: Same lmao
+Danielle Knutson: bruh i thought it was just me
+Person 3: Nah it’s not just you
+‎[10/19/24, 3:54:06 PM] Danielle Knutson: bruh idk what’s happening but i can’t see whatsapp messages but im getting notifications that im getting them
+Danielle Knutson: that’s the last thing i can see for some reason
+Danielle Knutson: did someone find out 5?
+Person 5: Really appreciate u Mathew!!🫡🫡🫡 I can text it to u Danny
+Danielle Knutson: Person 7 for 3c did you ever figure out why the number of colors couldn’t be less
+Danielle Knutson: i think it might have something to do with cliques
+Danielle Knutson: maybe degree
+Person 2: Holup y'all finished the pset?
+Danielle Knutson: yea lol
+‎[10/19/24, 5:48:23 PM] ~ Person 9: Another day begging for people to do 6.1200 with me
+Person 5: Mathew sent everything homie, but I’m down to collab tmr if u like. Imma finish 1-3 today
+Person 4: Its probably degree but idk
+Person 2: Alr what time are you working tmrw?
+Person 5: I can be in the STUD at 2 bc I have an IM game at noon and office hours are from 2-5 in case we get stuck
+‎[10/19/24, 8:26:20 PM] ~ Person 10 Akin: Also y’all, I low key had a different interpretation of problem 2. I assumed he had his public key n and e, but was just missing his private key, and he’s able to decode the messsge by only picking 1 of these options: a, e, f, or g. I think I’m tripping, but I wanted to run this by u guys
+Danielle Knutson: the only things is is that it’s supposed to be d*e mod phi(n) i think
+Danielle Knutson: because phi should be (p-1)*(q-1) but i just used the recitation and the steps they used
+Person 5: Wait I agree, phi = (p-1)(q-1), I used that to give the same response twice
+Person 5: My question is do we assume know the public key: n and e
+Danielle Knutson: i think the only difference from f and g is what it should mod by
+Person 5: Just want to let u guys know that I went to office hours for number 2 and they agreed with my answer. I would double check what u guys said with office hours
+Person 2: I think I did this
+Person 2: Ah I had a busy day, but I went straight to office hours
+Person 2: Yo it's so weird cuz I'm reading your messages in your voice, so I can imagine you saying this
+‎[10/21/24, 10:41:09 AM] ~ Person 10 Akin: Pset 6-6.1200.pdf • ‎7 pages
+Person 5: U guys do what u like, but I wanted to just send mine too bc I did appreciate Mathew sending his
+Person 2: Y'all on gradescope, we're meant to submit an answer for every part of 2, so it might be a good idea to explain why all the ones that don't work are wrong
+Person 2: I'm not sure, but I feel like this would imply that
+Person 4: Yeah
+Person 4: I saw it too
+Person 4: @⁨~Person 9⁩ I won’t make it to recitation today
+Person 4: I have a meeting at 3:30
+Person 2: That's okay 😔
+Person 4: I took a nap
+Person 4: Set my alarm for 2:15 am instead of pm
+Person 4: It doesn’t make sense I come to lecture at this point
+Person 2: How tired were you bro 💀
+Person 2: Y'all the lore is crazy
+Person 2: Our 6.1200 lecturer cofounded Akamai, with a guy who was on one of the planes of 9/11 ‎<This message was edited>
+Person 2: As a result, his co-founder sadly passed away
+Person 2: He also worked with Peter Shor, one of the groundbreaking minds of quantum computing who's also at MIT
+Danielle Knutson: bruh
+Danielle Knutson: he’s insane
+Person 2: This dude ain't just our lecturer 💀
+Person 4: Bro what did you ask him personally or did he like explain it in class?
+Person 2: I stalked him online
+Person 4: Lmao real
+Person 4: Also
+Person 4: I finished the pset
+Person 4: Um…
+Person 4: We should still meet tmrw to verify
+Person 4: But yeah…it’s actually super easy
+Person 5: Oh bet🥳🥳
+Person 4: Can we do 7:30? 👀
+Person 5: Lowkey got a party tn
+Danielle Knutson: damn y’all partying
+Person 5: I will not be there, but I hope I see from last week that even if u send urs, I still do it on my own and check with office hours
+Person 4: Person 8 take 2 steps to the right
+Person 2: We meeting at Simmons?
+Person 4: Probably not anymore
+Person 4: but ill send what i have in a bit
+Danielle Knutson: i can around 9
+Person 4: If u want me to come still tho i will
+‎[10/25/24, 7:37:03 PM] Person 4: 6.1200 PSET 7.pdf • ‎11 pages
+Person 5: GOAT!! But 11 pages💀💀, I thought it was easy
+Person 2: Alr np
+Person 2: We in 8b if y'all wanna pull up
+Danielle Knutson: is the 6.1200 gradescope open for any of u guys
+Danielle Knutson: to submit the pset
+Person 3: Nah
+‎[10/27/24, 5:55:15 PM] ~ Person 10 Akin: I think 4b is build up error
+Person 4: Yessir
+‎[10/27/24, 5:56:03 PM] ~ Person 10 Akin: Also not completely sure of my answer for 3a
+Person 5: Oh bet
+Person 4: Just didn’t state that it was actually a build up error tho
+Person 4: But it’s the same principle
+Person 5: Ok
+Person 4: I think that’s what Dani had idr
+‎[10/27/24, 5:57:05 PM] Danielle Knutson: PSET 7 6.1200.pdf • ‎6 pages
+Person 5: Bro thx so much, and final thing is how sure are u for ur question 2 proof
+Person 5: I’m probably gonna go to office hours, but I’m just struggling to understand what to do
+Person 4: 100% sure
+Person 5: Yay!
+Person 5: Thx guys🫡🫡
+Person 2: Y'all in lecture btw?
+Person 5: Ya
+Person 4: Anyone realize that the warmups are close till tomorrow?
+Person 2: Ah we couldn't find anyone
+Person 2: I guess future me will deal with that
+Person 5: Y’all tryna pset tn ‎<This message was edited>
+Person 5: Maybe 7?
+Person 2: Sounds good
+Person 2: I gotta finish 18.03 and eat dinner but I'll try and aim for then
+Person 5: Ok imma get Simmons right beforehand, probably at 6:15
+Person 5: Wait anyone else down?
+Person 3: I can do tonight too
+Person 4: Y’all need to carry this week 🙏
+Person 5: Aight bet, just finished dinner, imma head to the lounge
+Person 5: Person 9 what’s ur eta
+Person 4: So professional 😂
+Person 5: 😭😭
+Person 2: Sorry just finished my pset
+Person 2: For 18.03
+Person 2: Where y'all at?
+Person 4: Did u guys finish the pset?
+Person 3: We’ve got 2, 3, 4 and are working on 5 rn
+Person 4: My heroes 😭🙏
+Person 4: I mean if u guys don’t have 1
+Person 4: I’m actually settled down now I could probably try something
+Person 4: See if I can help at least
+Person 5: We’re starting 1 rn, I’ll send pics in a bit but feel free to try, if u want
+Person 5: But go enjoy Princeton too
+Person 5: We failed😭😭
+Person 5: Plz do it if u can
+Person 4: Dw I gotchu
+Person 4: that took me nearly 1 hour
+Person 4: but i have an answer for a
+Danielle Knutson: i can send what i got
+Person 4: i have no idea if its sufficient but i basically copied the structure of the proof for # of edges in lecture notes
+‎[11/1/24, 11:54:07 PM] Person 4:
+‎[11/1/24, 11:54:11 PM] Danielle Knutson:
+Danielle Knutson: idk how i mixed up the letter in by
+‎[11/1/24, 11:54:27 PM] Danielle Knutson:
+Person 4: Ayoooooo
+Person 4: we did it basically the same thing
+Person 4: but you removed and I added
+Person 4: What abt the other questions? Any loose ends there?
+Person 5: My bad
+‎[11/2/24, 12:14:30 AM] ~ Person 10 Akin:
+‎[11/2/24, 12:14:35 AM] ~ Person 10 Akin:
+‎[11/2/24, 12:14:38 AM] ~ Person 10 Akin:
+‎[11/2/24, 12:14:43 AM] ~ Person 10 Akin:
+‎[11/2/24, 12:14:49 AM] ~ Person 10 Akin:
+‎[11/2/24, 12:14:53 AM] ~ Person 10 Akin:
+‎[11/2/24, 12:14:57 AM] ~ Person 10 Akin:
+‎[11/2/24, 12:15:00 AM] ~ Person 10 Akin:
+‎[11/2/24, 12:15:03 AM] ~ Person 10 Akin:
+Danielle Knutson: it looks like we got the same things but i just had different reasonings for 3 but i didnt do 3 in office hours so it could be wrong
+‎[11/2/24, 9:46:35 AM] Danielle Knutson: 6.1200 PSET 8.pdf • ‎8 pages
+Person 3: I think there were multiple ways to reason things in 3
+Danielle Knutson: yea just make sure that if u use factorials because like the choices are changing that u use general product rule
+Danielle Knutson: or at least cite it somehow
+Danielle Knutson: at least for the last one with the alternating
+Person 4: Guys
+Person 4: Why can’t we use combinatorial logic
+Person 4: And like the permutation formulas
+Person 4: It works
+Person 5: I dunno, but our 2d was wrong, Danny’s is correct
+Person 5: And Person 9 and Person 8 I put y’all as collabs
+Person 4: Guys
+Person 4: You don’t understand
+Person 4: This PSEt group is a blessing
+Person 4: Cuz if we were at Princeton
+Person 4: GOD help our souls
+Person 2: Yo what happens at Princeton bro 💀
+Danielle Knutson: also my answer for 2c might be wrong just because the ta said that technically they didn’t prove that part of dilworths theorem in lecture
+Person 4: You are not allowed to work with ANYONW
+Person 4: ANYONE
+Person 4: Like you can get demoted a grad year
+Person 4: Or expelled
+Person 5: That’s crazy Mathew
+Person 5: But I gotta give a big shoutout to Person 9 bc I was so confused on counting, but I just read 15.1 - 15.3 and everything makes sense now. The textbook is actually so good
+Person 2: Yo bro 😭
+Person 2: Textbook is cracked man
+Person 2: It's sometimes better than office hours if you're totally stuck
+Danielle Knutson: i 100% agree
+Person 2: Depending on how much the TA is willing to teach
+Person 5: This is high key the difference between a letter grade if I continue to read the textbook😭😭
+‎[11/3/24, 9:40:37 PM] ~ Person 10 Akin: And did anyone case 2 for 1a, this what I have so far
+Person 4: Y'all are doing it by removing one
+Person 4: I did it by adding one
+Person 4: is it the same?
+Person 4: cuz I know induction is funky esp with the direction of implication
+Person 3: Isn’t adding super dangerous with graphs
+Person 3: Because a lot of graphs can’t exist based off adding one
+Person 4: yeah but for this there are 2 cases
+Person 4: all accounted for
+Danielle Knutson: i just did it based on recitation where u start with an arbitrary n+1 vertex graph then remove one
+Danielle Knutson: apply the inductive hypothesis then look back at tge original graph and see that it has the same properties
+Person 5: I did but things change when u remove a leaf that’s connected to a degree 3, so how do u show it still works
+Person 5: It’s ur work ofc so u don’t have to share, but that’s the one part of the whole proof I don’t get
+Danielle Knutson: i think it’s in the pdf i showed
+Person 5: I see, Person 9 or Person 8 did u guys phrase it differently
+Person 2: I still need to write it up brother
+Person 2: But I would also go with n+1 and then remove 1, to consider all arbitrary Trees
+Person 5: Bet
+Danielle Knutson: but i see what you’re saying
+Danielle Knutson: when i was in office hours she told me that i shouldn’t say things like removing or adding because technically we’re just dealing with 2 different graphs just one doesn’t have the node
+Person 2: Yeah I remember them saying something like that... I say something like "consider the graph excluding the node" but idk if that's fine
+Person 4: @⁨~Person 10 Akin⁩
+Person 4: @⁨Danielle Knutson⁩
+Person 4: I took a look at it again and you need 3 cases instead of 2
+Person 4: >3 is fine
+Person 4: < 3 you actually need to divide into 2 sub cases of degree 2 and degree < 2
+Person 4: Because degree < 2 is impossible and cannot be accounted for by the explanation for degree 2
+Person 4: Therefore it’s right yk, but the differentiation has to be made
+Person 2: Y'all is "pre" a prefix of "pre"?
+Person 2: What do you guys think?
+Danielle Knutson: yea
+Person 2: What's your reasoning?
+Danielle Knutson: because it’s the beginning of the word
+Danielle Knutson: even if the word is short
+Person 2: Could you make this >= 2 and < 2?
+Person 2: Oh so you can have a prefix with no suffix basically?
+Danielle Knutson: yea
+Person 2: Okok I guess that also feels like what we did in 6.101
+Danielle Knutson: i’m doing that rn !! lol
+Danielle Knutson: i kept it as >=3 just because in my proof i said if it was equal to three then that would increment it by 1 and the math doesn’t work otherwise because when u apply P(n) it should be that the number of leaves is at least k+2
+Danielle Knutson: but if u do it with 2 i think u get k+1
+Danielle Knutson: i did it that way first
+Person 4: Nah. Cuz exp for 2 would then be different that exp for >2
+Person 5: Can u send what u did Mathew
+‎[11/4/24, 10:15:33 PM] Person 4:
+Person 5: Thank you!!
+Person 5: Based on this I now get a way to do it with 3 cases
+Person 5: I mean 2
+Person 2: Upon actually doing the question, I now completely get what you mean
+Danielle Knutson: are we doing the pset on for day
+Danielle Knutson: friday
+Person 2: Yes
+Danielle Knutson: i will be joining you guys this time
+Danielle Knutson: if you have space
+Person 5: Imma be away this weekend
+Person 4: Dw bro we gotchu
+Person 5: Appreciate y’all!!🫡🫡🫡
+Danielle Knutson: bruh why is there one attempt on the warm up
+Person 2: Nah they tweaking this week
+Person 5: Probably a mistake
+Person 4: Guys what time
+Person 4: Can we do 7:30?
+Person 2: We meeting up?
+Person 3: Are we?
+Person 4: Im lowkey in a zoom that I forgot abt
+Person 4: but I did start while im in here
+Person 4: Ive done 2/4 problems
+Person 4: Ill be done around 9:30
+Person 2: Honestly I might work on it tomorrow instead unless anyone really wants to work on it tonight
+Person 4: Well fair enough We could meet during OH to check
+Person 4: these 2 ladies in here are just yapping
+Person 4: I might just finish the pset
+Person 4: okay guys
+Person 4: I think im clapped but why cant i figure out 1a) and the last one in 3
+Person 4: i think 1a) im just overthinking but im confused about 3c)
+‎[11/8/24, 9:47:07 PM] Person 4: 6.1200 PSET 9.pdf • ‎7 pages
+Person 5: Goated!!
+Person 2: If we keep up at this rate we gonna be finishing the psets before they're posted
+Person 6: Are y’all seeing the assignment in gradescope to submit pset 9?
+Person 6: Bc I only see up to pset 8
+Person 3: Same
+Person 6: okay then good to know
+Person 4: Hey did anyone get last one for 3 and 1a)?
+‎[11/11/24, 4:09:26 PM] ~ Person 9: What do you think about this explanation?
+Person 4: Should be alright I think
+Person 4: I’d have to pay closer attention to the solution
+Person 5: I low key thought that the whole point of talking about bookkeeper and then defining rearrangements in the beginning is that we don’t distinguish between A1 and A2, so it’s just 4! rearrangements, regardless of trying to also count for if we use different A’s
+‎[11/11/24, 9:15:25 PM] ~ Person 10 Akin:
+Person 2: Yeah this is true from what I've heard
+Person 5: Oh, u weren’t gonna say anything😭😭
+Person 5: I also disagree with Mathew’s 1b, do u feel comfortable sending urs or maybe if u do again Mathew, so I’m not texting about wrong answers
+Person 2: Mb my brain's kinda been all over the place 😭
+Person 5: No no I’m just joking
+Person 4: Lmao I have 0 idea
+Person 4: 6.1200 is next weeks problem
+Person 5: Bro psets still due tmr
+Person 5: 😭
+Person 4: Yeah…
+Person 4: I’ll probably look at it in the 1 ams there about
+Person 4: Maybe ask aI
+Person 4: Tbh my mind is FAR from 6.120 rn 😂😂
+Person 5: Ur good, I’ll send my stuff soon
+Person 5: I’m just confused on 1c and 2
+Person 5: file:///var/mobile/Library/SMS/Attachments/21/01/7B5FA24F-4C14-4989-AD77-0565E0EA912D/Pset%209-6.1200.pdf
+‎[11/12/24, 1:22:20 AM] ~ Person 10 Akin: Pset 9-6.1200.pdf • ‎9 pages
+‎[11/12/24, 7:49:17 AM] Danielle Knutson: 6.1200 PSET 9.pdf • ‎6 pages
+Person 5: Thank you!!
+Person 2: Without everyone's help I would've been cooked for this one
+Person 2: Thank you everyone
+‎[11/12/24, 10:39:38 AM] ~ Person 9: 6.120 PSET 9.pdf • ‎7 pages
+Person 2: Anyone in lecture today?
+Danielle Knutson: 🫣
+Danielle Knutson: can u take notes for me please
+Person 2: Yo we be gambling in 6.1200 rn
+Person 2: Class is like 15 dollars in debt to the professor
+Person 4: lmao
+Person 2: It's our 3rd time playing the game 💀
+Person 4: but bro has a networth of like 19 mil
+Person 4: lmaoooo
+Person 2: Mb we down $7
+Person 2: Prof just asked us how much we got left 💀
+Person 2: He's asking other students as the "backup bank"
+Person 2: Yo we just agreed on betting $20 💀💀
+Person 2: Either he's gonna show us the trick, or prof's side hustle is blooming
+Person 2: BRO JUST PICKED THE WORST CHOICE AND ASKED FOR SIDE BETS
+Person 2: This class ain't real 😂
+Person 2: The tension in the room is crazy
+Person 2: Is prof gonna pull through again?
+Person 3: Yo I gotta watch this later lol
+Person 2: 😂 Don't read the chat for a little bit then
+Person 2: Prof won $20
+Person 2: We just witnessed the beginning of gambling
+Person 2: Hallelujah he's giving the money back
+Person 2: And educating us on being careful about gambling
+‎[11/12/24, 9:33:14 PM] Person 4: 6.3700 Reference Sheet  (2).pdf • ‎4 pages
+Person 4: End of discussion
+Person 2: I will always applaud your ability to write 2 months of content onto 1 page ‎<This message was edited>
+Person 5: Y’all good to meet tmr
+Person 4: Yep
+Person 4: let me take a look at the pset rq
+Person 4: nah bro this shit is EASY
+Person 4: 2 hours max
+Person 4: record time we setting
+Person 5: Let’s goo🫡🫡🫡
+Person 4: What time tonight
+Person 4: I wanna watch Jake Paul get punched up by Mike Tyson
+Person 2: I'm at a conference but I'll work on it a little while here
+Person 4: 👍
+Person 4: Person 9
+Person 4: We finished the recitation sheet
+Person 4: 🔥🔥🔥
+Person 5: Low key me too😭😭, imma go go the review session and I’m good to start
+Person 5: Did u finish already Dani?💀💀
+Danielle Knutson: only two problems :(
+Person 4: Honestly let’s see how much I can do in 1 hr
+Danielle Knutson: the first one is just a tree diagram
+Danielle Knutson: And they have almost the exact same example in the textbook
+Person 4: Just did it
+Person 4: Your actually right
+Person 4: Didn’t even realize
+Person 4: guys did you do binomal distributions in class?
+Person 4: cuz u need it for problem 4
+Person 4: and i didn't see it in lecture notes
+Person 5: Ok so more meeting?
+Person 5: No more**
+Person 4: I’m basically almost done tbh
+Person 4: Couple things I wanna iron out still tho
+‎[11/16/24, 12:26:18 PM] Person 4: bro plugged himself in the textbook 💪
+Person 2: LET'S GOOO
+Person 2: Nah y'all cracking the probability code
+Person 2: Can y'all send Thursday lecture notes?
+‎[11/16/24, 6:30:19 PM] ~ Person 10 Akin: 6 L Probability.pdf • ‎17 pages
+Person 5: My notes are alr, but page 9-17
+Person 2: Appreciate it Person 10 🙏
+Person 6: Did people figure out how to prove 2 on the pset? I’m confused on what math to show — I’ve been trying to manipulate the fractions but nothing I’m doing seems to prove the cumulative growth rate thing
+Person 4: I used the Cauchy Schwartz inequality
+Danielle Knutson: it was honestly just a me plugging in random numbers thing
+Person 6: Did they teach us Cauchy Schwartz?!
+Person 4: Nah
+Person 4: They taught it in 6.3700 tho
+Person 4: Here’s what i did
+Danielle Knutson: i did c3 as a big number and s3 as a mid number then c2=s2 and c1 and s1 are really small
+‎[11/17/24, 10:27:21 PM] Person 4:
+Danielle Knutson: wait are we supposed to be proving it or disproving it
+Danielle Knutson: because i disproved it by counter example
+Person 4: Either
+Person 4: That’s interesting
+Person 4: If you have a mathematical counter example that means my thing has a logic error
+Person 4: Is there OH?
+Person 6: from lecture it seems like we’re supposed to prove that two product lines with individually declining growth rates can still result in a company’s total growth rate increasing
+Person 6: but i’m not sure if that was just my vibe check of tom’s example ‎<This message was edited>
+Danielle Knutson: i also was under that impression
+Person 4: I never looked at the lecture notes
+Person 4: this is probably my penalty for that
+‎[11/18/24, 7:33:16 PM] ~ Person 9:
+Person 4: Wut
+Danielle Knutson: hi i just wanted to share my pset because im not sure about the probability questions
+‎[11/18/24, 11:50:44 PM] Danielle Knutson: PSET 10 6.1200.pdf • ‎7 pages
+Person 3: Did we have to draw a tree for 1? I just multiplied probabilities bc I didn’t want to draw it
+‎[11/19/24, 12:09:50 AM] ~ Person 10 Akin: Pset 10-6.1200.pdf • ‎9 pages
+Person 5: Up to u bro
+‎[11/19/24, 1:53:32 AM] ~ Person 9: 6.120 PSET 10.pdf • ‎9 pages
+Person 4: Alright guys
+Person 4: Don’t tell no one
+Person 4: Don’t share nuthin
+‎[11/19/24, 4:15:10 PM] Person 4: quiz2-probs.pdf • ‎16 pages
+‎[11/19/24, 4:15:10 PM] Person 4: quiz2-sols.pdf • ‎13 pages
+Person 4: Past exam for practice 👆
+Danielle Knutson: omg bruh
+Danielle Knutson: i was like what in the hell how did he get access to the exam
+Person 4: Lmao nooooo 😂😂
+Person 4: Still can’t share it tho
+Person 4: This is in confidence
+Person 4: Keep it here
+Danielle Knutson: do you guys have techniques for counting
+Danielle Knutson: i swear i get every counting question wrong
+Person 4: No same
+Person 4: I thought I knew counting
+Person 4: But nope
+Person 4: Trying to figure it out now
+Person 4: Come to stud we fighting the battle frl
+Person 5: Thx Mathew!!🫡🫡🫡
+Person 5: Counting is gonna be the death of me😭😭
+Danielle Knutson: i’m gonna eat dinner then i’ll probably come over
+Danielle Knutson: no same
+Danielle Knutson: every time i think i have the right answer
+Person 5: I’ll see I guys at the study break
+Danielle Knutson: every time i’m wrong
+Person 4: Are u guys going to the review?
+Person 4: Bet
+Person 2: Sadly not 😔
+Person 2: Y'all should say if any crazy methods come up
+Person 4: Bet
+Person 6: good luck everyone!!
+Person 5: Good luck!!🫡🫡
+Person 2: How'd it go everyone?
+Person 5: Not too bad👀
+Person 2: Bro walked out early 😂
+Person 5: I left like 10 mins early, nothing crazy😂
+Person 4: How'd it go guys?
+Danielle Knutson: a major improvement
+Person 3: Same
+Person 4: 💪💪💪
+Person 4: Squad frl
+Person 5: Squad!!🫡🫡🫡
+Person 2: ONLY WAY IS UP Y'ALL ☝️☝️
+Person 2: Hope y'all had a nice thanksgiving btw :)
+Person 2: But when we meeting for last pset?
+Person 4: Wednesday?
+Danielle Knutson: yea i’m free then
+Person 4: guys this pset is so easy
+Person 4: this is a 1hr thing
+Person 5: I’m ngl, if we’re not gonna stick to the plans we make, then there’s no point in making them in the first place, this is the second time I thought we were working through the pset together and then it’s cancelled last minute
+Person 4: Lmao what I didn’t cancel
+Person 4: I just said it’s super easy
+Person 3: I’m still good for Wednesday
+Person 5: My b, I just got frustrated, ur good if u can or can’t, but I’m still down
+Person 4: What time btw
+Person 2: 7pm?
+Person 4: Yeah that works
+Danielle Knutson: i’m in 4c just because i was here for dinner and didn’t want to leave and come back so you guys can come whenever
+Person 2: Imma come up after eating then
+Person 4: same
+Person 4: btw how do you get to 4c 😭
+Danielle Knutson: first elevator when u come in then press 4
+Person 5: Headed to dinner rn😭
+Person 4: okay thanks
+Person 4: that way i wont get lost
+Person 4: ...again
+Person 5: We’re getting started btw Person 8
+‎[12/4/24, 11:09:24 PM] Danielle Knutson: for question 2
+‎[12/4/24, 11:13:21 PM] ~ Person 10 Akin:
+‎[12/4/24, 11:13:21 PM] ~ Person 10 Akin:
+‎[12/4/24, 11:13:21 PM] ~ Person 10 Akin:
+‎[12/4/24, 11:13:21 PM] ~ Person 10 Akin:
+‎[12/4/24, 11:13:21 PM] ~ Person 10 Akin:
+‎[12/4/24, 11:13:21 PM] ~ Person 10 Akin:
+‎[12/4/24, 11:13:21 PM] ~ Person 10 Akin:
+‎[12/4/24, 11:13:21 PM] ~ Person 10 Akin:
+‎[12/4/24, 11:13:21 PM] ~ Person 10 Akin:
+‎[12/4/24, 11:13:22 PM] ~ Person 10 Akin:
+‎[12/4/24, 11:13:22 PM] ~ Person 10 Akin:
+Person 5: From today
+Person 2: Y'all I think I got 3b
+Person 2: @⁨Person 4⁩ What is your answer?
+Person 2: Imma just send it y'all can take a look
+‎[12/4/24, 11:41:24 PM] ~ Person 9:
+‎[12/4/24, 11:41:24 PM] ~ Person 9:
+Person 2: Wait nvm do not do it like this it's really long for no reason
+Person 2: I checked another way, but imma go ask at office hours tomorrow
+‎[12/5/24, 1:43:29 AM] Danielle Knutson: pset11.pdf • ‎7 pages
+Danielle Knutson: idk why i decided to stay up so late
+Person 2: Yo the 1/2 factor for PDF_x in 3a is diabolical
+Person 2: But makes sense
+Person 2: For 3e, do y'all know if it's asking for PDF_(X minus D)?
+Person 2: And do you guys understand what 4a means by the value of m?
+Danielle Knutson: that’s what i assumed
+Danielle Knutson: m is the current max or the pointer that we take with us through the list
+Person 2: How do you make a function with that?
+Person 2: Would it be piecewise given the relation between m and a_i?
+Danielle Knutson: for part a?
+Person 2: yeah
+Danielle Knutson: i think they’re looking for a python dunction
+Danielle Knutson: or just a step by step of how it is assigned
+Person 2: Yeah that makes sense
+Person 2: I spoke to a TA so it's all good
+Person 4: What is a python dunction
+Person 4: What’s not funny is that question was serious at the moment of writing it 😭😭😭
+Danielle Knutson: omg Person 7 bro
+Person 2: rip bro 💀
+Person 4: yeah bruh im cooked
+Person 4: gotta stop drinking that "smart" water
+Person 4: its a hoax
+Danielle Knutson: did u guys end up getting something similar to what i go
+Danielle Knutson: t
+Person 5: Yep!
+Person 2: Yep and some I checked with OH
+Person 4: Yes maam ‎<This message was edited>
+Person 4: Autocorrect destroyed me there
+Person 4: Me and Person 9 are in classroom 4-237 doing 6.1200 if any of y’all wanna join
+Person 5: Next time🫡
+Danielle Knutson: are u guys going into the past material or mostly doing probability
+Person 4: Practice problems
+Person 4: All of them
+Person 2: Best of luck y'all!!
+Person 3: Good luck everyone
+Person 5: Good luck!!
+Person 2: Happy New Year y'all :D
+Person 2: I've forgotten how privileged I am to have 4G wherever I go in the US
+Person 5: Happy new year everyone
+Person 4: Happy new year guys
+Person 4: 6.1210 grindset???? ‎<This message was edited>
+Person 2: 🫢
+Person 2: So true
+Person 5: Yessir
+Person 2: Y'all we gotta LaTeX? 🤡
+Person 4: I swear someone told me it’s mandatory a couple months ago
+Person 4: At the very least it’s “strongly recommended”
+Person 3: Yeah, me
+Person 3: I was told it was mandatory in 6.121 so I did it for 6.120 to prepare and I think I told you that
+Person 4: Actually yeah now that you mention it was you lol 😂
+Person 2: Might look at the pset now and to figure out what's confusing
+Person 4: Ngl problems 1 and 2 seem too simple its concerning
+Person 4: im lowkey scared
+Person 4: @⁨~Person 9⁩ ima have to go to OH on Sunday instead of today. I have an internship app that I though was due next week Friday but is due today 😭😭😭
+Person 2: Ah no problem, I'll let you know how OH goes today then
+Person 2: Gl bro 😂
+Person 2: Anyone wanna compare answers at some point?
+Person 4: Yeah, maybe after office hours tmrw idk
+Person 4: Guys
+Person 4: This is a momentous occasion
+‎[3/2/25, 2:02:26 PM] Person 4: FIRST TRY
+Person 4: I’m about to crash out
+Person 4: In a positive way
+Person 5: Good stuff🫡🫡
+Person 2: Valiant work soldier 🫡
+Danielle Knutson: do you guys know anyone who has leetcode premium
+Person 2: Think I might 😂
+Person 4: hi, this has more practice material for 6.1210 https://courses.csail.mit.edu/6.006/ (just in case you didn't know about it)
+Person 4: was jsut sent this ☝
+Person 2: Appreciate it Person 7 🫡
+Person 5: Goat🫡🫡
+Person 4: is anyone else's cheat sheet taking an incomprehensible amount of time to write?
+Person 4: like i didn't realize it was SO much
+Person 5: Ikr, it’s hard to know what to prioritize
+Person 3: Good luck guys
+Person 5: Good luck🫡🫡
+Person 4: I hope it went well for yall 🙏
+Person 5: There’s a solid chance I drop ngl😭😭, might be better to finish 6.101 and do leetcode first
+Person 5: But if I do, wishing yall luck with the rest of the semester
+Person 2: That's rough man 😭
+Person 2: Keep us updated on what your decision is... We'll keep trying to traverse the 6.1210 desert together until then
+Person 2: Y'all see grades dropped?
+Person 4: Yes and so did my self confidence
+Person 5: I didn’t do great either, but it was good enough to stay👍🏾👍🏾
+Person 2: Ayeeee glad to hear the good news then 🙏
+Person 4: Can’t wait for them to go in lecture today and say that the exam grades were an April fools joke and everyone gets +50 marks
+Person 2: I wish bro 💀
+Person 5: Anyone have any pointers for 1 c by chance👀
+Person 2: Seeing this late mb 😔
+Person 2: But anyone wanna pset together w/ anything?
+Person 4: this has got to be the easiest pset so far
+Person 4: like no joke
+Person 4: im grateful 🙏
+Person 4: being able to black box out 90% of everything is such a blessing
+Person 3: Hype
+‎[4/11/25, 11:08:35 AM] Person 4:
+Person 4: Feeding the model frl
+Person 3: Did it turn the iPad into wood?
+Danielle Knutson: https://www.quantguide.io/quantify
+Danielle Knutson: https://www.quantguide.io/quantify/play
+‎[4/15/25, 1:10:53 AM] ~ Person 9: Problem 2b PSET 6
+Person 2: Academia is cooked
+Person 4: Bro 😭😭😭😭
+Person 5: 💀💀
+Person 3: What do you guys have on your cheat sheets? Besides just writing stuff about the different search algorithms idk what else to say
+Person 4: Yeah man I tried doing stuff where I went through the practice and put various techniques for modifying the graph so that we can solve questions easier but every question is different and that’s basically pointless 😭😭
+Person 4: So yeah it’s jus the algs ‎<This message was edited>
+Person 4: And the old cheat sheet ig
+Person 3: Good luck guys
+Person 4: Yeah good luck guys 💪
+Danielle Knutson: https://medium.com/@ashirwad.pradhan007/dp-dynamic-programming-is-hard-part-i-9f8476fb87a3
+‎[5/8/25, 11:52:19 AM] Person 4:
